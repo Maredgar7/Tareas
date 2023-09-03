@@ -176,7 +176,30 @@
       },
       {
         "key": 1693422321956,
-        "children": [],
+        "children": [
+          {
+            "key": 1693709110839,
+            "children": [],
+            "todo": {
+              "content": "CS POS",
+              "id": 1693709110839,
+              "level": "default",
+              "done": false,
+              "start": 1693709110839
+            }
+          },
+          {
+            "key": 1693709118537,
+            "children": [],
+            "todo": {
+              "content": "CS HQ",
+              "id": 1693709118537,
+              "level": "default",
+              "done": false,
+              "start": 1693709118537
+            }
+          }
+        ],
         "todo": {
           "content": "4. Imprimir Sesión de ventas",
           "id": 1693422321956,
@@ -1337,13 +1360,17 @@
     ],
     "expandKeys": [
       1693492474104,
-      1693703674315
+      1693703674315,
+      1693422321956
     ],
     "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
     "add_mode": "bottom",
     "virtual": false,
     "showLine": false,
-    "restDays": [],
+    "restDays": [
+      0,
+      6
+    ],
     "playFontSize": 24,
     "tags": {
       "1693422043358": {
@@ -1373,10 +1400,10 @@
     },
     "title": "Todo List",
     "autoSort": false,
-    "showEndTime": false,
+    "showEndTime": true,
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1693708551614"
+    "version": "1693709121985"
   }
 }
