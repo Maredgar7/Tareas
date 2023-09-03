@@ -1461,8 +1461,17 @@
     "autoSort": false,
     "showEndTime": true,
     "simpleMode": false,
-    "lang": "es",
+    "lang": "en",
     "desc": "Listado de tareas a desarrollar",
+<<<<<<< HEAD
     "version": "1693710164841"
+=======
+<<<<<<< HEAD
+    "version": "1693709751931",
+    "page": "plan"
+=======
+    "version": "1693709563434"
+>>>>>>> 5ad94e60736d6bc3294e5ed31f34b06dbacfc710
+>>>>>>> 47e4592092f72a75ba5ffea9dbe21783b138f710
   }
 }
