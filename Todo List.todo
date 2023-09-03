@@ -1415,17 +1415,6 @@
             "1693422166740"
           ]
         }
-      },
-      {
-        "key": 1693710527669,
-        "children": [],
-        "todo": {
-          "content": "Tarea",
-          "id": 1693710527669,
-          "level": "default",
-          "done": false,
-          "start": 1693710527669
-        }
       }
     ],
     "expandKeys": [
@@ -1471,8 +1460,8 @@
     "autoSort": false,
     "showEndTime": true,
     "simpleMode": false,
-    "lang": "en",
+    "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1693711259891"
+    "version": "1693711187517"
   }
 }
