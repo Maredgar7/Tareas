@@ -1356,11 +1356,71 @@
           ],
           "date": null
         }
+      },
+      {
+        "key": 1693709386020,
+        "children": [
+          {
+            "key": 1693709429836,
+            "children": [],
+            "todo": {
+              "content": "POS-DEV",
+              "id": 1693709429836,
+              "level": "default",
+              "done": false,
+              "start": 1693709429836
+            }
+          },
+          {
+            "key": 1693709470551,
+            "children": [],
+            "todo": {
+              "content": "HQ Client para POS-DEV",
+              "id": 1693709470551,
+              "level": "default",
+              "done": false,
+              "start": 1693709470551
+            }
+          },
+          {
+            "key": 1693709489027,
+            "children": [],
+            "todo": {
+              "content": "HQ-DEV (Servidor)",
+              "id": 1693709489027,
+              "level": "default",
+              "done": false,
+              "start": 1693709489027
+            }
+          },
+          {
+            "key": 1693709507329,
+            "children": [],
+            "todo": {
+              "content": "HQ Client para HQ-DEV",
+              "id": 1693709507329,
+              "level": "default",
+              "done": false,
+              "start": 1693709507329
+            }
+          }
+        ],
+        "todo": {
+          "content": "Montar un nuevo ambiete de pruebas para errores de clientes",
+          "id": 1693709386020,
+          "level": "danger",
+          "done": false,
+          "start": 1693709386021,
+          "tags": [
+            "1693422166740"
+          ]
+        }
       }
     ],
     "expandKeys": [
       1693492474104,
-      1693703674315
+      1693703674315,
+      1693709386020
     ],
     "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
     "add_mode": "bottom",
@@ -1403,6 +1463,6 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1693709144648"
+    "version": "1693709532254"
   }
 }
