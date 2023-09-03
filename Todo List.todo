@@ -8,13 +8,13 @@
           "content": "1. Requerimiento de novem",
           "id": 1693421886515,
           "level": "danger",
-          "done": false,
+          "done": true,
           "start": 1693421886515,
           "tags": [
             "1693422058040"
           ],
           "focus": false,
-          "end": 1693437038320
+          "end": 1693708551382
         }
       },
       {
@@ -1377,6 +1377,6 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1693706640083"
+    "version": "1693708551614"
   }
 }
