@@ -1360,8 +1360,7 @@
     ],
     "expandKeys": [
       1693492474104,
-      1693703674315,
-      1693422321956
+      1693703674315
     ],
     "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
     "add_mode": "bottom",
@@ -1402,8 +1401,9 @@
     "autoSort": false,
     "showEndTime": true,
     "simpleMode": false,
-    "lang": "es",
+    "lang": "en",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1693709121985"
+    "version": "1693709751931",
+    "page": "plan"
   }
 }
