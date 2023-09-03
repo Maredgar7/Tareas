@@ -1406,7 +1406,7 @@
           }
         ],
         "todo": {
-          "content": "Montar un nuevo ambiete de pruebas para errores de clientes",
+          "content": "Montar un nuevo ambiente de pruebas para errores de clientes",
           "id": 1693709386020,
           "level": "danger",
           "done": false,
@@ -1419,7 +1419,8 @@
     ],
     "expandKeys": [
       1693492474104,
-      1693703674315
+      1693703674315,
+      1693709386020
     ],
     "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
     "add_mode": "bottom",
@@ -1462,6 +1463,6 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1693709563434"
+    "version": "1693710164841"
   }
 }
