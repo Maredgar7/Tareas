@@ -1356,6 +1356,65 @@
           ],
           "date": null
         }
+      },
+      {
+        "key": 1693709386020,
+        "children": [
+          {
+            "key": 1693709429836,
+            "children": [],
+            "todo": {
+              "content": "POS-DEV",
+              "id": 1693709429836,
+              "level": "default",
+              "done": false,
+              "start": 1693709429836
+            }
+          },
+          {
+            "key": 1693709470551,
+            "children": [],
+            "todo": {
+              "content": "HQ Client para POS-DEV",
+              "id": 1693709470551,
+              "level": "default",
+              "done": false,
+              "start": 1693709470551
+            }
+          },
+          {
+            "key": 1693709489027,
+            "children": [],
+            "todo": {
+              "content": "HQ-DEV (Servidor)",
+              "id": 1693709489027,
+              "level": "default",
+              "done": false,
+              "start": 1693709489027
+            }
+          },
+          {
+            "key": 1693709507329,
+            "children": [],
+            "todo": {
+              "content": "HQ Client para HQ-DEV",
+              "id": 1693709507329,
+              "level": "default",
+              "done": false,
+              "start": 1693709507329
+            }
+          }
+        ],
+        "todo": {
+          "content": "Montar un nuevo ambiete de pruebas para errores de clientes",
+          "id": 1693709386020,
+          "level": "danger",
+          "done": false,
+          "start": 1693709386021,
+          "tags": [
+            "1693422166740"
+          ]
+        }
       }
     ],
     "expandKeys": [
@@ -1403,7 +1462,11 @@
     "simpleMode": false,
     "lang": "en",
     "desc": "Listado de tareas a desarrollar",
+<<<<<<< HEAD
     "version": "1693709751931",
     "page": "plan"
+=======
+    "version": "1693709563434"
+>>>>>>> 5ad94e60736d6bc3294e5ed31f34b06dbacfc710
   }
 }
