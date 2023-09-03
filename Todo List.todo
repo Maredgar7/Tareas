@@ -1420,7 +1420,7 @@
         "key": 1693710527669,
         "children": [],
         "todo": {
-          "content": "TArea",
+          "content": "Tarea",
           "id": 1693710527669,
           "level": "default",
           "done": false,
@@ -1471,9 +1471,8 @@
     "autoSort": false,
     "showEndTime": true,
     "simpleMode": false,
-    "lang": "es",
+    "lang": "en",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1693710539856",
-    "page": "plan"
+    "version": "1693711259891"
   }
 }
