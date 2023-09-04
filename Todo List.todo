@@ -103,99 +103,6 @@
         }
       },
       {
-        "key": 1693420404607,
-        "children": [
-          {
-            "key": 1693420436356,
-            "children": [
-              {
-                "key": 1693421748351,
-                "children": [],
-                "todo": {
-                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1239",
-                  "id": 1693421748351,
-                  "level": "default",
-                  "done": false,
-                  "start": 1693421748351
-                }
-              }
-            ],
-            "todo": {
-              "content": "(Josues) HQ Client",
-              "id": 1693420436356,
-              "level": "default",
-              "done": false,
-              "start": 1693420436356,
-              "focus": false,
-              "end": 1693492534410
-            }
-          },
-          {
-            "key": 1693420575272,
-            "children": [
-              {
-                "key": 1693421813987,
-                "children": [],
-                "todo": {
-                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-656",
-                  "id": 1693421813987,
-                  "level": "default",
-                  "done": false,
-                  "start": 1693421813987
-                }
-              }
-            ],
-            "todo": {
-              "content": "(Víctor) Movimiento de Puntos",
-              "id": 1693420575272,
-              "level": "default",
-              "done": false,
-              "start": 1693420575272,
-              "focus": false,
-              "end": 1693421339088
-            }
-          },
-          {
-            "key": 1693420611927,
-            "children": [
-              {
-                "key": 1693421836268,
-                "children": [],
-                "todo": {
-                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-655",
-                  "id": 1693421836268,
-                  "level": "default",
-                  "done": false,
-                  "start": 1693421836268
-                }
-              }
-            ],
-            "todo": {
-              "content": "(Victor) Movimiento Histórico de puntos",
-              "id": 1693420611927,
-              "level": "default",
-              "done": false,
-              "start": 1693420611927,
-              "focus": false,
-              "end": 1693421340052
-            }
-          }
-        ],
-        "todo": {
-          "content": "Integración de puntos",
-          "id": 1693420404607,
-          "level": "danger",
-          "done": false,
-          "start": 1693420404607,
-          "focus": false,
-          "end": 1693421347686,
-          "tags": [
-            "1693422043358",
-            "1693422058040"
-          ]
-        }
-      },
-      {
         "key": 1693421470086,
         "children": [
           {
@@ -959,65 +866,6 @@
         "key": 1693705155124,
         "children": [
           {
-            "key": 1693705155127,
-            "children": [],
-            "todo": {
-              "content": "Contratos y Conexiones",
-              "id": 1693703963390,
-              "level": "default",
-              "done": false,
-              "start": 1693703963390,
-              "focus": false,
-              "end": 1693704197102,
-              "date": "1693807200,1693893599"
-            }
-          },
-          {
-            "key": 1693705155128,
-            "children": [],
-            "todo": {
-              "content": "Liberar Instalador",
-              "id": 1693703843592,
-              "level": "default",
-              "done": false,
-              "start": 1693703843592,
-              "tags": [
-                "1693422138337"
-              ],
-              "focus": false,
-              "end": 1693704199932,
-              "date": "1693807200,1693893599"
-            }
-          },
-          {
-            "key": 1693705155129,
-            "children": [],
-            "todo": {
-              "content": "Instalaciones CS POS",
-              "id": 1693704003041,
-              "level": "default",
-              "done": false,
-              "start": 1693704003041,
-              "focus": false,
-              "end": 1693704204440,
-              "date": "1693807200,1693893599"
-            }
-          },
-          {
-            "key": 1693705155131,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 1 - Socios y productos",
-              "id": 1693703695178,
-              "level": "default",
-              "done": false,
-              "start": 1693703695178,
-              "focus": false,
-              "end": 1693704208687,
-              "date": "1693807200,1693893599"
-            }
-          },
-          {
             "key": 1693705155132,
             "children": [],
             "todo": {
@@ -1136,17 +984,6 @@
             }
           },
           {
-            "key": 1693705155141,
-            "children": [],
-            "todo": {
-              "content": "Inversiones Fumiaires",
-              "id": 1693705098422,
-              "level": "default",
-              "done": false,
-              "start": 1693705098422
-            }
-          },
-          {
             "key": 1693705155125,
             "children": [],
             "todo": {
@@ -1186,6 +1023,65 @@
               "focus": false,
               "end": 1693705071179,
               "date": "1692856800,1692943199"
+            }
+          },
+          {
+            "key": 1693705155131,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 1 - Socios y productos",
+              "id": 1693703695178,
+              "level": "default",
+              "done": true,
+              "start": 1693703695178,
+              "focus": false,
+              "end": 1693864159501,
+              "date": "1693807200,1693893599"
+            }
+          },
+          {
+            "key": 1693705155129,
+            "children": [],
+            "todo": {
+              "content": "Instalaciones CS POS",
+              "id": 1693704003041,
+              "level": "default",
+              "done": true,
+              "start": 1693704003041,
+              "focus": false,
+              "end": 1693864156249,
+              "date": "1693807200,1693893599"
+            }
+          },
+          {
+            "key": 1693705155127,
+            "children": [],
+            "todo": {
+              "content": "Contratos y Conexiones",
+              "id": 1693703963390,
+              "level": "default",
+              "done": true,
+              "start": 1693703963390,
+              "focus": false,
+              "end": 1693864153657,
+              "date": "1693807200,1693893599"
+            }
+          },
+          {
+            "key": 1693705155128,
+            "children": [],
+            "todo": {
+              "content": "Liberar Instalador",
+              "id": 1693703843592,
+              "level": "default",
+              "done": true,
+              "start": 1693703843592,
+              "tags": [
+                "1693422138337"
+              ],
+              "focus": false,
+              "end": 1693849483514,
+              "date": "1693807200,1693893599"
             }
           }
         ],
@@ -1423,6 +1319,33 @@
         }
       },
       {
+        "key": 1693837657662,
+        "children": [
+          {
+            "key": 1693837663632,
+            "children": [],
+            "todo": {
+              "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1187",
+              "id": 1693837663632,
+              "level": "default",
+              "done": false,
+              "start": 1693837663632
+            }
+          }
+        ],
+        "todo": {
+          "content": "Cierres de sesiones de ventas, está cargando documento de facturas pertenecientes o otras tienda",
+          "id": 1693837657662,
+          "level": "warning",
+          "done": false,
+          "start": 1693837657662,
+          "tags": [
+            "1693422043358"
+          ],
+          "date": "1693807200,1693893599"
+        }
+      },
+      {
         "key": 1693836044973,
         "children": [
           {
@@ -1452,7 +1375,7 @@
         "todo": {
           "content": "Webinar",
           "id": 1693836044973,
-          "level": "default",
+          "level": "warning",
           "done": false,
           "start": 1693836044973,
           "date": "1693807200,1693893599",
@@ -1463,30 +1386,123 @@
         }
       },
       {
-        "key": 1693837657662,
+        "key": 1693840524154,
         "children": [
           {
-            "key": 1693837663632,
+            "key": 1693840534520,
             "children": [],
             "todo": {
-              "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1187",
-              "id": 1693837663632,
+              "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1227",
+              "id": 1693840534520,
               "level": "default",
               "done": false,
-              "start": 1693837663632
+              "start": 1693840534520
             }
           }
         ],
         "todo": {
-          "content": "Cierres de sesiones de ventas, está cargando documento de facturas pertenecientes o otras tienda",
-          "id": 1693837657662,
-          "level": "default",
+          "content": "Corrección de error de lista de precios externos al crear o actualizar producto base o unidad alternativa",
+          "id": 1693840524154,
+          "level": "warning",
           "done": false,
-          "start": 1693837657662,
+          "start": 1693840524154,
           "tags": [
             "1693422043358"
           ],
           "date": "1693807200,1693893599"
+        }
+      },
+      {
+        "key": 1693420404607,
+        "children": [
+          {
+            "key": 1693420436356,
+            "children": [
+              {
+                "key": 1693421748351,
+                "children": [],
+                "todo": {
+                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1239",
+                  "id": 1693421748351,
+                  "level": "default",
+                  "done": false,
+                  "start": 1693421748351
+                }
+              }
+            ],
+            "todo": {
+              "content": "(Josues) HQ Client",
+              "id": 1693420436356,
+              "level": "default",
+              "done": false,
+              "start": 1693420436356,
+              "focus": false,
+              "end": 1693492534410
+            }
+          },
+          {
+            "key": 1693420575272,
+            "children": [
+              {
+                "key": 1693421813987,
+                "children": [],
+                "todo": {
+                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-656",
+                  "id": 1693421813987,
+                  "level": "default",
+                  "done": false,
+                  "start": 1693421813987
+                }
+              }
+            ],
+            "todo": {
+              "content": "(Víctor) Movimiento de Puntos",
+              "id": 1693420575272,
+              "level": "default",
+              "done": false,
+              "start": 1693420575272,
+              "focus": false,
+              "end": 1693421339088
+            }
+          },
+          {
+            "key": 1693420611927,
+            "children": [
+              {
+                "key": 1693421836268,
+                "children": [],
+                "todo": {
+                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-655",
+                  "id": 1693421836268,
+                  "level": "default",
+                  "done": false,
+                  "start": 1693421836268
+                }
+              }
+            ],
+            "todo": {
+              "content": "(Victor) Movimiento Histórico de puntos",
+              "id": 1693420611927,
+              "level": "default",
+              "done": false,
+              "start": 1693420611927,
+              "focus": false,
+              "end": 1693421340052
+            }
+          }
+        ],
+        "todo": {
+          "content": "Integración de puntos",
+          "id": 1693420404607,
+          "level": "warning",
+          "done": false,
+          "start": 1693420404607,
+          "focus": false,
+          "end": 1693421347686,
+          "tags": [
+            "1693422043358",
+            "1693422058040"
+          ]
         }
       },
       {
@@ -1509,7 +1525,7 @@
     "expandKeys": [
       1693492474104,
       1693703674315,
-      1693837657662
+      1693420436356
     ],
     "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
     "add_mode": "bottom",
@@ -1552,6 +1568,6 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1693837716807"
+    "version": "1693864192756"
   }
 }
