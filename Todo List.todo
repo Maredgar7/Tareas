@@ -1552,7 +1552,8 @@
               "done": false,
               "start": 1693840524154,
               "tags": [
-                "1693422043358"
+                "1693422043358",
+                "1693422166740"
               ],
               "date": "1693807200,1693893599"
             }
@@ -1565,7 +1566,11 @@
               "id": 1693922213433,
               "level": "success",
               "done": false,
-              "start": 1693922213433
+              "start": 1693922213433,
+              "tags": [
+                "1693422058040",
+                "1693422166740"
+              ]
             }
           }
         ],
@@ -1574,7 +1579,10 @@
           "id": 1693922096638,
           "level": "default",
           "done": false,
-          "start": 1693922096638
+          "start": 1693922096638,
+          "tags": [
+            "1693422166740"
+          ]
         }
       },
       {
@@ -1597,7 +1605,8 @@
     "expandKeys": [
       1693492474104,
       1693703674315,
-      1693420436356
+      1693420436356,
+      1693440159605
     ],
     "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
     "add_mode": "bottom",
@@ -1640,7 +1649,6 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1693922511635",
-    "page": "plan"
+    "version": "1693923950141"
   }
 }
