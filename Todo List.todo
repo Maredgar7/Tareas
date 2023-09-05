@@ -866,20 +866,6 @@
         "key": 1693705155124,
         "children": [
           {
-            "key": 1693705155132,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 2 - Configuraciones",
-              "id": 1693703732964,
-              "level": "default",
-              "done": false,
-              "start": 1693703732964,
-              "focus": false,
-              "end": 1693704209562,
-              "date": "1693893600,1693979999"
-            }
-          },
-          {
             "key": 1693705155133,
             "children": [],
             "todo": {
@@ -1083,6 +1069,20 @@
               "end": 1693849483514,
               "date": "1693807200,1693893599"
             }
+          },
+          {
+            "key": 1693705155132,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 2 - Configuraciones",
+              "id": 1693703732964,
+              "level": "default",
+              "done": true,
+              "start": 1693703732964,
+              "focus": false,
+              "end": 1693949712813,
+              "date": "1693893600,1693979999"
+            }
           }
         ],
         "todo": {
@@ -1101,19 +1101,6 @@
       {
         "key": 1693493973426,
         "children": [
-          {
-            "key": 1693703750616,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 3 - Compras",
-              "id": 1693703750616,
-              "level": "default",
-              "done": false,
-              "start": 1693703750616,
-              "focus": false,
-              "end": 1693704210692
-            }
-          },
           {
             "key": 1693703798351,
             "children": [],
@@ -1195,6 +1182,19 @@
               "level": "default",
               "done": false,
               "start": 1693704176311
+            }
+          },
+          {
+            "key": 1693703750616,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 3 - Compras",
+              "id": 1693703750616,
+              "level": "default",
+              "done": true,
+              "start": 1693703750616,
+              "focus": false,
+              "end": 1693928293812
             }
           },
           {
@@ -1316,33 +1316,6 @@
             "1693422166740"
           ],
           "date": "1693202400,1694152799"
-        }
-      },
-      {
-        "key": 1693837657662,
-        "children": [
-          {
-            "key": 1693837663632,
-            "children": [],
-            "todo": {
-              "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1187",
-              "id": 1693837663632,
-              "level": "default",
-              "done": false,
-              "start": 1693837663632
-            }
-          }
-        ],
-        "todo": {
-          "content": "Cierres de sesiones de ventas, está cargando documento de facturas pertenecientes a otras tienda",
-          "id": 1693837657662,
-          "level": "warning",
-          "done": false,
-          "start": 1693837657662,
-          "tags": [
-            "1693422043358"
-          ],
-          "date": "1693807200,1693893599"
         }
       },
       {
@@ -1513,23 +1486,66 @@
         }
       },
       {
-        "key": 1693922416993,
-        "children": [],
-        "todo": {
-          "content": "POS: Validar que se pueda guardar sin haber seleccionado una columna a mostrar al buscar productos",
-          "id": 1693922416993,
-          "level": "default",
-          "done": false,
-          "start": 1693922416993,
-          "tags": [
-            "1693422166740"
-          ],
-          "date": "1693893600,1693979999"
-        }
-      },
-      {
         "key": 1693922096638,
         "children": [
+          {
+            "key": 1693837657662,
+            "children": [
+              {
+                "key": 1693837663632,
+                "children": [],
+                "todo": {
+                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1187",
+                  "id": 1693837663632,
+                  "level": "default",
+                  "done": false,
+                  "start": 1693837663632
+                }
+              }
+            ],
+            "todo": {
+              "content": "Cierres de sesiones de ventas, está cargando documento de facturas pertenecientes a otras tienda",
+              "id": 1693837657662,
+              "level": "warning",
+              "done": true,
+              "start": 1693837657662,
+              "tags": [
+                "1693422043358"
+              ],
+              "date": "1693807200,1693893599",
+              "focus": false,
+              "end": 1693948501181
+            }
+          },
+          {
+            "key": 1693922416993,
+            "children": [
+              {
+                "key": 1693929167367,
+                "children": [],
+                "todo": {
+                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1242",
+                  "id": 1693929167367,
+                  "level": "default",
+                  "done": false,
+                  "start": 1693929167367
+                }
+              }
+            ],
+            "todo": {
+              "content": "Validar en la configuraciones del POS se pueden seleccionar que columnas mostrar en el punto de venta al buscar los productos",
+              "id": 1693922416993,
+              "level": "warning",
+              "done": true,
+              "start": 1693922416993,
+              "tags": [
+                "1693422166740"
+              ],
+              "date": "1693893600,1693979999",
+              "focus": false,
+              "end": 1693930529789
+            }
+          },
           {
             "key": 1693840524154,
             "children": [
@@ -1549,28 +1565,44 @@
               "content": "Corrección de error de lista de precios externos al crear o actualizar producto base o unidad alternativa",
               "id": 1693840524154,
               "level": "success",
-              "done": false,
+              "done": true,
               "start": 1693840524154,
               "tags": [
                 "1693422043358",
                 "1693422166740"
               ],
-              "date": "1693807200,1693893599"
+              "date": "1693807200,1693893599",
+              "focus": false,
+              "end": 1693949671690
             }
           },
           {
             "key": 1693922213433,
-            "children": [],
+            "children": [
+              {
+                "key": 1693928825801,
+                "children": [],
+                "todo": {
+                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1241",
+                  "id": 1693928825801,
+                  "level": "default",
+                  "done": false,
+                  "start": 1693928825802
+                }
+              }
+            ],
             "todo": {
-              "content": "Agrupar facturas de venta QB  indipendiente del método de pago",
+              "content": "No agrupa la venta en base a método de pago en reporte de ventas QB",
               "id": 1693922213433,
               "level": "success",
-              "done": false,
+              "done": true,
               "start": 1693922213433,
               "tags": [
                 "1693422058040",
                 "1693422166740"
-              ]
+              ],
+              "focus": false,
+              "end": 1693948489712
             }
           }
         ],
@@ -1606,7 +1638,8 @@
       1693492474104,
       1693703674315,
       1693420436356,
-      1693440159605
+      1693440159605,
+      1693922096638
     ],
     "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
     "add_mode": "bottom",
@@ -1649,6 +1682,6 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1693923950141"
+    "version": "1693950566976"
   }
 }
