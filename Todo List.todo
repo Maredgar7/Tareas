@@ -1334,7 +1334,7 @@
           }
         ],
         "todo": {
-          "content": "Cierres de sesiones de ventas, está cargando documento de facturas pertenecientes o otras tienda",
+          "content": "Cierres de sesiones de ventas, está cargando documento de facturas pertenecientes a otras tienda",
           "id": 1693837657662,
           "level": "warning",
           "done": false,
@@ -1350,7 +1350,41 @@
         "children": [
           {
             "key": 1693836078392,
-            "children": [],
+            "children": [
+              {
+                "key": 1693872794417,
+                "children": [],
+                "todo": {
+                  "content": "Envio de correos",
+                  "id": 1693872794417,
+                  "level": "default",
+                  "done": false,
+                  "start": 1693872794417
+                }
+              },
+              {
+                "key": 1693872807423,
+                "children": [],
+                "todo": {
+                  "content": "Pedidos Pmobile",
+                  "id": 1693872807423,
+                  "level": "default",
+                  "done": false,
+                  "start": 1693872807423
+                }
+              },
+              {
+                "key": 1693872822890,
+                "children": [],
+                "todo": {
+                  "content": "Pedios Market",
+                  "id": 1693872822890,
+                  "level": "default",
+                  "done": false,
+                  "start": 1693872822890
+                }
+              }
+            ],
             "todo": {
               "content": "Grabar video demostrativo",
               "id": 1693836078392,
@@ -1383,33 +1417,6 @@
             "1693422138337",
             "1693422166740"
           ]
-        }
-      },
-      {
-        "key": 1693840524154,
-        "children": [
-          {
-            "key": 1693840534520,
-            "children": [],
-            "todo": {
-              "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1227",
-              "id": 1693840534520,
-              "level": "default",
-              "done": false,
-              "start": 1693840534520
-            }
-          }
-        ],
-        "todo": {
-          "content": "Corrección de error de lista de precios externos al crear o actualizar producto base o unidad alternativa",
-          "id": 1693840524154,
-          "level": "warning",
-          "done": false,
-          "start": 1693840524154,
-          "tags": [
-            "1693422043358"
-          ],
-          "date": "1693807200,1693893599"
         }
       },
       {
@@ -1506,6 +1513,33 @@
         }
       },
       {
+        "key": 1693840524154,
+        "children": [
+          {
+            "key": 1693840534520,
+            "children": [],
+            "todo": {
+              "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1227",
+              "id": 1693840534520,
+              "level": "default",
+              "done": false,
+              "start": 1693840534520
+            }
+          }
+        ],
+        "todo": {
+          "content": "Corrección de error de lista de precios externos al crear o actualizar producto base o unidad alternativa",
+          "id": 1693840524154,
+          "level": "success",
+          "done": false,
+          "start": 1693840524154,
+          "tags": [
+            "1693422043358"
+          ],
+          "date": "1693807200,1693893599"
+        }
+      },
+      {
         "key": 1693421886515,
         "children": [],
         "todo": {
@@ -1525,7 +1559,8 @@
     "expandKeys": [
       1693492474104,
       1693703674315,
-      1693420436356
+      1693420436356,
+      1693836044973
     ],
     "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
     "add_mode": "bottom",
@@ -1568,6 +1603,6 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1693864192756"
+    "version": "1693872837132"
   }
 }
