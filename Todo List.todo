@@ -1513,30 +1513,68 @@
         }
       },
       {
-        "key": 1693840524154,
+        "key": 1693922416993,
+        "children": [],
+        "todo": {
+          "content": "POS: Validar que se pueda guardar sin haber seleccionado una columna a mostrar al buscar productos",
+          "id": 1693922416993,
+          "level": "default",
+          "done": false,
+          "start": 1693922416993,
+          "tags": [
+            "1693422166740"
+          ],
+          "date": "1693893600,1693979999"
+        }
+      },
+      {
+        "key": 1693922096638,
         "children": [
           {
-            "key": 1693840534520,
+            "key": 1693840524154,
+            "children": [
+              {
+                "key": 1693840534520,
+                "children": [],
+                "todo": {
+                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1227",
+                  "id": 1693840534520,
+                  "level": "default",
+                  "done": false,
+                  "start": 1693840534520
+                }
+              }
+            ],
+            "todo": {
+              "content": "Corrección de error de lista de precios externos al crear o actualizar producto base o unidad alternativa",
+              "id": 1693840524154,
+              "level": "success",
+              "done": false,
+              "start": 1693840524154,
+              "tags": [
+                "1693422043358"
+              ],
+              "date": "1693807200,1693893599"
+            }
+          },
+          {
+            "key": 1693922213433,
             "children": [],
             "todo": {
-              "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1227",
-              "id": 1693840534520,
-              "level": "default",
+              "content": "Agrupar facturas de venta QB  indipendiente del método de pago",
+              "id": 1693922213433,
+              "level": "success",
               "done": false,
-              "start": 1693840534520
+              "start": 1693922213433
             }
           }
         ],
         "todo": {
-          "content": "Corrección de error de lista de precios externos al crear o actualizar producto base o unidad alternativa",
-          "id": 1693840524154,
-          "level": "success",
+          "content": "QAS",
+          "id": 1693922096638,
+          "level": "default",
           "done": false,
-          "start": 1693840524154,
-          "tags": [
-            "1693422043358"
-          ],
-          "date": "1693807200,1693893599"
+          "start": 1693922096638
         }
       },
       {
@@ -1559,8 +1597,7 @@
     "expandKeys": [
       1693492474104,
       1693703674315,
-      1693420436356,
-      1693836044973
+      1693420436356
     ],
     "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
     "add_mode": "bottom",
@@ -1603,6 +1640,7 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1693872837132"
+    "version": "1693922511635",
+    "page": "plan"
   }
 }
