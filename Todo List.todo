@@ -1417,7 +1417,8 @@
               "done": false,
               "start": 1693420436356,
               "focus": false,
-              "end": 1693492534410
+              "end": 1693492534410,
+              "date": "1693807200,1694066399"
             }
           },
           {
@@ -1482,6 +1483,34 @@
           "tags": [
             "1693422043358",
             "1693422058040"
+          ],
+          "date": "1693807200,1694066399"
+        }
+      },
+      {
+        "key": 1694009508776,
+        "children": [
+          {
+            "key": 1694009515559,
+            "children": [],
+            "todo": {
+              "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1225",
+              "id": 1694009515559,
+              "level": "default",
+              "done": false,
+              "start": 1694009515559
+            }
+          }
+        ],
+        "todo": {
+          "content": "En HQ los pedidos Pendientes/anulados no de despender de un rango de documento",
+          "id": 1694009508776,
+          "level": "warning",
+          "done": false,
+          "start": 1694009508777,
+          "date": "1693980000,1694066399",
+          "tags": [
+            "1693422043358"
           ]
         }
       },
@@ -1618,6 +1647,66 @@
         }
       },
       {
+        "key": 1694008831769,
+        "children": [
+          {
+            "key": 1694008867556,
+            "children": [],
+            "todo": {
+              "content": "Revisar los scripts de HQ-SDX para ver si falta alguno por que no suben los cierres y retiros de efectivo",
+              "id": 1694008867556,
+              "level": "default",
+              "done": false,
+              "start": 1694008867556,
+              "date": "1693980000,1694066399"
+            }
+          },
+          {
+            "key": 1694009003809,
+            "children": [],
+            "todo": {
+              "content": "Pruebas integración puntos en los diferenes escenarios",
+              "id": 1694009003809,
+              "level": "default",
+              "done": false,
+              "start": 1694009003809
+            }
+          },
+          {
+            "key": 1694009108310,
+            "children": [],
+            "todo": {
+              "content": "Generar videos Webinar si audio y pasar a Fernando",
+              "id": 1694009108310,
+              "level": "default",
+              "done": false,
+              "start": 1694009108311
+            }
+          },
+          {
+            "key": 1694009834030,
+            "children": [],
+            "todo": {
+              "content": "Al crear un nuevo producto no acepta el codigo sino que hay que sumarle uno",
+              "id": 1694009834030,
+              "level": "default",
+              "done": false,
+              "start": 1694009834031
+            }
+          }
+        ],
+        "todo": {
+          "content": "Tareas 06/09/23",
+          "id": 1694008831769,
+          "level": "default",
+          "done": false,
+          "start": 1694008831769,
+          "tags": [
+            "1693422166740"
+          ]
+        }
+      },
+      {
         "key": 1693421886515,
         "children": [],
         "todo": {
@@ -1636,8 +1725,7 @@
     ],
     "expandKeys": [
       1693492474104,
-      1693703674315,
-      1693420436356
+      1693703674315
     ],
     "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
     "add_mode": "bottom",
@@ -1680,7 +1768,6 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1693957229075",
-    "page": "plan"
+    "version": "1694010851627"
   }
 }
