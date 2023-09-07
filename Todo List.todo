@@ -1362,20 +1362,11 @@
               "content": "Grabar video demostrativo",
               "id": 1693836078392,
               "level": "default",
-              "done": false,
+              "done": true,
               "start": 1693836078392,
-              "date": "1693807200,1693893599"
-            }
-          },
-          {
-            "key": 1693836142582,
-            "children": [],
-            "todo": {
-              "content": "Introducción y cierre",
-              "id": 1693836142582,
-              "level": "default",
-              "done": false,
-              "start": 1693836142582
+              "date": "1693807200,1693893599",
+              "focus": false,
+              "end": 1694044430331
             }
           }
         ],
@@ -1413,7 +1404,7 @@
             "todo": {
               "content": "(Josues) HQ Client",
               "id": 1693420436356,
-              "level": "default",
+              "level": "success",
               "done": false,
               "start": 1693420436356,
               "focus": false,
@@ -1437,7 +1428,7 @@
               }
             ],
             "todo": {
-              "content": "(Víctor) Movimiento de Puntos",
+              "content": "(Víctor) Movimiento historico de Puntos",
               "id": 1693420575272,
               "level": "default",
               "done": false,
@@ -1456,19 +1447,21 @@
                   "content": "https://albatrosservices.atlassian.net/browse/CSPQ-655",
                   "id": 1693421836268,
                   "level": "default",
-                  "done": false,
-                  "start": 1693421836268
+                  "done": true,
+                  "start": 1693421836268,
+                  "focus": false,
+                  "end": 1694044139991
                 }
               }
             ],
             "todo": {
-              "content": "(Victor) Movimiento Histórico de puntos",
+              "content": "(Victor) Puntos acumulados por cliente",
               "id": 1693420611927,
               "level": "default",
-              "done": false,
+              "done": true,
               "start": 1693420611927,
               "focus": false,
-              "end": 1693421340052
+              "end": 1694044119732
             }
           }
         ],
@@ -1485,33 +1478,6 @@
             "1693422058040"
           ],
           "date": "1693807200,1694066399"
-        }
-      },
-      {
-        "key": 1694009508776,
-        "children": [
-          {
-            "key": 1694009515559,
-            "children": [],
-            "todo": {
-              "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1225",
-              "id": 1694009515559,
-              "level": "default",
-              "done": false,
-              "start": 1694009515559
-            }
-          }
-        ],
-        "todo": {
-          "content": "En HQ los pedidos Pendientes/anulados no de despender de un rango de documento",
-          "id": 1694009508776,
-          "level": "warning",
-          "done": false,
-          "start": 1694009508777,
-          "date": "1693980000,1694066399",
-          "tags": [
-            "1693422043358"
-          ]
         }
       },
       {
@@ -1573,6 +1539,35 @@
               "date": "1693893600,1693979999",
               "focus": false,
               "end": 1693930529789
+            }
+          },
+          {
+            "key": 1694009508776,
+            "children": [
+              {
+                "key": 1694009515559,
+                "children": [],
+                "todo": {
+                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1225",
+                  "id": 1694009515559,
+                  "level": "default",
+                  "done": false,
+                  "start": 1694009515559
+                }
+              }
+            ],
+            "todo": {
+              "content": "En HQ los pedidos Pendientes/anulados no de despender de un rango de documento",
+              "id": 1694009508776,
+              "level": "warning",
+              "done": true,
+              "start": 1694009508777,
+              "date": "1693980000,1694066399",
+              "tags": [
+                "1693422043358"
+              ],
+              "focus": false,
+              "end": 1694035450247
             }
           },
           {
@@ -1663,24 +1658,53 @@
           },
           {
             "key": 1694009003809,
-            "children": [],
+            "children": [
+              {
+                "key": 1694044645213,
+                "children": [],
+                "todo": {
+                  "content": "Anulación de ventas decrementas puntos",
+                  "id": 1694044645213,
+                  "level": "default",
+                  "done": true,
+                  "start": 1694044645213,
+                  "focus": false,
+                  "end": 1694045711568
+                }
+              },
+              {
+                "key": 1694044617576,
+                "children": [],
+                "todo": {
+                  "content": "Ventas incrementas puntos en HQ",
+                  "id": 1694044617576,
+                  "level": "default",
+                  "done": true,
+                  "start": 1694044617576,
+                  "focus": false,
+                  "end": 1694045708961
+                }
+              },
+              {
+                "key": 1694044471991,
+                "children": [],
+                "todo": {
+                  "content": "Reportes: validar que muestre la misma existencia de HQ = POS",
+                  "id": 1694044471991,
+                  "level": "default",
+                  "done": true,
+                  "start": 1694044471991,
+                  "focus": false,
+                  "end": 1694044634886
+                }
+              }
+            ],
             "todo": {
               "content": "Pruebas integración puntos en los diferenes escenarios",
               "id": 1694009003809,
               "level": "default",
               "done": false,
               "start": 1694009003809
-            }
-          },
-          {
-            "key": 1694009108310,
-            "children": [],
-            "todo": {
-              "content": "Generar videos Webinar si audio y pasar a Fernando",
-              "id": 1694009108310,
-              "level": "default",
-              "done": false,
-              "start": 1694009108311
             }
           },
           {
@@ -1692,6 +1716,19 @@
               "level": "default",
               "done": false,
               "start": 1694009834031
+            }
+          },
+          {
+            "key": 1694009108310,
+            "children": [],
+            "todo": {
+              "content": "Generar videos Webinar si audio y pasar a Fernando",
+              "id": 1694009108310,
+              "level": "default",
+              "done": true,
+              "start": 1694009108311,
+              "focus": false,
+              "end": 1694044421944
             }
           }
         ],
@@ -1725,7 +1762,12 @@
     ],
     "expandKeys": [
       1693492474104,
-      1693703674315
+      1693703674315,
+      1693922096638,
+      1694008831769,
+      1693420404607,
+      1693420575272,
+      1694009003809
     ],
     "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
     "add_mode": "bottom",
@@ -1768,6 +1810,6 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1694010851627"
+    "version": "1694045712031"
   }
 }
