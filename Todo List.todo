@@ -103,6 +103,21 @@
         }
       },
       {
+        "key": 1694136672676,
+        "children": [],
+        "todo": {
+          "content": "Contactar a cliente para DEMO",
+          "id": 1694136672676,
+          "level": "danger",
+          "done": false,
+          "start": 1694136672676,
+          "date": "1694152800,1694239199",
+          "tags": [
+            "1693422166740"
+          ]
+        }
+      },
+      {
         "key": 1693421470086,
         "children": [
           {
@@ -638,6 +653,17 @@
           "tags": [
             "1693422166740"
           ]
+        }
+      },
+      {
+        "key": 1694096512732,
+        "children": [],
+        "todo": {
+          "content": "Migración de puntos a nuevas tiendas que se aperturen",
+          "id": 1694096512732,
+          "level": "danger",
+          "done": false,
+          "start": 1694096512732
         }
       },
       {
@@ -1744,17 +1770,6 @@
         }
       },
       {
-        "key": 1694096512732,
-        "children": [],
-        "todo": {
-          "content": "Migración de puntos a nuevas tiendas que se aperturen",
-          "id": 1694096512732,
-          "level": "default",
-          "done": false,
-          "start": 1694096512732
-        }
-      },
-      {
         "key": 1693421886515,
         "children": [],
         "todo": {
@@ -1820,6 +1835,6 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1694124081952"
+    "version": "1694136739876"
   }
 }
