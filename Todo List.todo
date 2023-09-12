@@ -641,6 +641,73 @@
         }
       },
       {
+        "key": 1694537954294,
+        "children": [
+          {
+            "key": 1694537987203,
+            "children": [],
+            "todo": {
+              "content": "HQ: Agregar al socio la tienda por defecto",
+              "id": 1694537987203,
+              "level": "default",
+              "done": false,
+              "start": 1694537987203
+            }
+          },
+          {
+            "key": 1694538557184,
+            "children": [],
+            "todo": {
+              "content": "POS: Agregar al socio la tienda por defecto",
+              "id": 1694538557184,
+              "level": "default",
+              "done": false,
+              "start": 1694538557184
+            }
+          },
+          {
+            "key": 1694538592973,
+            "children": [],
+            "todo": {
+              "content": "Scheduler: Agrear la tienda po defecto donde sea que haya nacido el Socio",
+              "id": 1694538592973,
+              "level": "default",
+              "done": false,
+              "start": 1694538592973
+            }
+          },
+          {
+            "key": 1694538736523,
+            "children": [],
+            "todo": {
+              "content": "Crear el Script de la nueva colunma para HQ",
+              "id": 1694538736523,
+              "level": "default",
+              "done": false,
+              "start": 1694538736523
+            }
+          },
+          {
+            "key": 1694538762039,
+            "children": [],
+            "todo": {
+              "content": "Crear el Script de la nueva colunma para POS",
+              "id": 1694538762039,
+              "level": "default",
+              "done": false,
+              "start": 1694538762039
+            }
+          }
+        ],
+        "todo": {
+          "content": "A socios de negocio agregar la tienda por defecto",
+          "id": 1694537954294,
+          "level": "danger",
+          "done": false,
+          "start": 1694537954294
+        }
+      },
+      {
         "key": 1693705261511,
         "children": [
           {
@@ -1656,6 +1723,17 @@
             }
           },
           {
+            "key": 1694527633902,
+            "children": [],
+            "todo": {
+              "content": "Grabar videos",
+              "id": 1694527633902,
+              "level": "default",
+              "done": false,
+              "start": 1694527633902
+            }
+          },
+          {
             "key": 1694008867556,
             "children": [],
             "todo": {
@@ -1868,9 +1946,7 @@
     ],
     "expandKeys": [
       1693492474104,
-      1693703674315,
-      1693438562248,
-      1693420404607
+      1693703674315
     ],
     "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
     "add_mode": "bottom",
@@ -1913,6 +1989,6 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1694476068225"
+    "version": "1694539069279"
   }
 }
