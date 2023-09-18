@@ -17,6 +17,17 @@
                   "done": false,
                   "start": 1693422590950
                 }
+              },
+              {
+                "key": 1695046512777,
+                "children": [],
+                "todo": {
+                  "content": "",
+                  "id": 1695046512777,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695046512777
+                }
               }
             ],
             "todo": {
@@ -1026,6 +1037,36 @@
         }
       },
       {
+        "key": 1695046581186,
+        "children": [],
+        "todo": {
+          "content": "CSPQ-699 Sistema: Motivos de transacción deben cargar en modo lectura cuando se va modificar uno para validar permisos",
+          "id": 1695046581186,
+          "level": "warning",
+          "done": false,
+          "start": 1695046581186,
+          "tags": [
+            "1693422043358"
+          ],
+          "date": "1695016800,1695103199"
+        }
+      },
+      {
+        "key": 1695046537529,
+        "children": [],
+        "todo": {
+          "content": "CSPQ-877 Fidelización: que todos los textbox tengan validación que solo permita ingresar números.",
+          "id": 1695046537529,
+          "level": "warning",
+          "done": false,
+          "start": 1695046537529,
+          "date": "1695016800,1695103199",
+          "tags": [
+            "1693422043358"
+          ]
+        }
+      },
+      {
         "key": 1693704329691,
         "children": [
           {
@@ -1786,7 +1827,7 @@
             "key": 1694615464977,
             "children": [],
             "todo": {
-              "content": "CSPQ-1126 Error al intentar guardar un ramo de negocios",
+              "content": "CSPQ-1126 Error al intentar guardar un ramo de negocios HQ y POS",
               "id": 1694615464977,
               "level": "warning",
               "done": false,
@@ -1801,7 +1842,7 @@
             "key": 1695045803881,
             "children": [],
             "todo": {
-              "content": "Sesiones de ventas formato de Ticket ####",
+              "content": "HQ Sesiones de ventas formato de Ticket ####",
               "id": 1695045803881,
               "level": "default",
               "done": false,
@@ -2665,6 +2706,6 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1695046317422"
+    "version": "1695046693842"
   }
 }
