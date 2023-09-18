@@ -962,18 +962,67 @@
         }
       },
       {
-        "key": 1694615464977,
-        "children": [],
+        "key": 1693421470086,
+        "children": [
+          {
+            "key": 1693421494862,
+            "children": [
+              {
+                "key": 1693421555383,
+                "children": [],
+                "todo": {
+                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1173",
+                  "id": 1693421555383,
+                  "level": "default",
+                  "done": false,
+                  "start": 1693421555383
+                }
+              }
+            ],
+            "todo": {
+              "content": "Víctor: Replicar en HQ el proceso de transformación",
+              "id": 1693421494862,
+              "level": "default",
+              "done": false,
+              "start": 1693421494862,
+              "focus": false,
+              "end": 1693421578192
+            }
+          },
+          {
+            "key": 1693421596423,
+            "children": [
+              {
+                "key": 1693421630229,
+                "children": [],
+                "todo": {
+                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1171",
+                  "id": 1693421630229,
+                  "level": "default",
+                  "done": false,
+                  "start": 1693421630229
+                }
+              }
+            ],
+            "todo": {
+              "content": "Josué: Integración del proceso de Transformación",
+              "id": 1693421596423,
+              "level": "default",
+              "done": false,
+              "start": 1693421596423
+            }
+          }
+        ],
         "todo": {
-          "content": "CSPQ-1126 Error al intentar guardar un ramo de negocios",
-          "id": 1694615464977,
+          "content": "Integración Transformación",
+          "id": 1693421470086,
           "level": "warning",
           "done": false,
-          "start": 1694615464977,
-          "date": "1694584800,1694671199",
+          "start": 1693421470086,
           "tags": [
-            "1693422043358"
-          ]
+            "1693422058040"
+          ],
+          "date": "1694412000,1695275999"
         }
       },
       {
@@ -1246,7 +1295,7 @@
               "level": "default",
               "done": false,
               "start": 1694615831957,
-              "date": null
+              "date": "1694584800,1694671199"
             }
           },
           {
@@ -1260,7 +1309,7 @@
               "start": 1693703674315,
               "focus": false,
               "end": 1693705430412,
-              "date": null
+              "date": "1695016800,1695103199"
             }
           },
           {
@@ -1274,7 +1323,7 @@
               "start": 1693703919590,
               "focus": false,
               "end": 1693705431394,
-              "date": null
+              "date": "1695016800,1695103199"
             }
           },
           {
@@ -1286,7 +1335,7 @@
               "level": "default",
               "done": false,
               "start": 1694615957635,
-              "date": null
+              "date": "1695016800,1695103199"
             }
           },
           {
@@ -1299,7 +1348,8 @@
               "done": false,
               "start": 1693703963390,
               "focus": false,
-              "end": 1693704197102
+              "end": 1693704197102,
+              "date": "1695016800,1695103199"
             }
           },
           {
@@ -1315,7 +1365,8 @@
                 "1693422138337"
               ],
               "focus": false,
-              "end": 1693704199932
+              "end": 1693704199932,
+              "date": "1695016800,1695103199"
             }
           },
           {
@@ -1328,7 +1379,8 @@
               "done": false,
               "start": 1693704003041,
               "focus": false,
-              "end": 1693704204440
+              "end": 1693704204440,
+              "date": "1695016800,1695103199"
             }
           },
           {
@@ -1341,7 +1393,8 @@
               "done": false,
               "start": 1693703882789,
               "focus": false,
-              "end": 1693704207618
+              "end": 1693704207618,
+              "date": "1695016800,1695103199"
             }
           },
           {
@@ -1478,69 +1531,6 @@
             "1693422166740"
           ],
           "date": null
-        }
-      },
-      {
-        "key": 1693421470086,
-        "children": [
-          {
-            "key": 1693421494862,
-            "children": [
-              {
-                "key": 1693421555383,
-                "children": [],
-                "todo": {
-                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1173",
-                  "id": 1693421555383,
-                  "level": "default",
-                  "done": false,
-                  "start": 1693421555383
-                }
-              }
-            ],
-            "todo": {
-              "content": "Víctor: Replicar en HQ el proceso de transformación",
-              "id": 1693421494862,
-              "level": "default",
-              "done": false,
-              "start": 1693421494862,
-              "focus": false,
-              "end": 1693421578192
-            }
-          },
-          {
-            "key": 1693421596423,
-            "children": [
-              {
-                "key": 1693421630229,
-                "children": [],
-                "todo": {
-                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1171",
-                  "id": 1693421630229,
-                  "level": "default",
-                  "done": false,
-                  "start": 1693421630229
-                }
-              }
-            ],
-            "todo": {
-              "content": "Josué: Integración del proceso de Transformación",
-              "id": 1693421596423,
-              "level": "default",
-              "done": false,
-              "start": 1693421596423
-            }
-          }
-        ],
-        "todo": {
-          "content": "Integración Transformación",
-          "id": 1693421470086,
-          "level": "warning",
-          "done": false,
-          "start": 1693421470086,
-          "tags": [
-            "1693422058040"
-          ]
         }
       },
       {
@@ -1777,7 +1767,7 @@
           }
         ],
         "todo": {
-          "content": "Implementación (Formato)",
+          "content": "Implementación (Formato borrador)",
           "id": 1693493973426,
           "level": "success",
           "done": false,
@@ -1792,6 +1782,32 @@
       {
         "key": 1693922096638,
         "children": [
+          {
+            "key": 1694615464977,
+            "children": [],
+            "todo": {
+              "content": "CSPQ-1126 Error al intentar guardar un ramo de negocios",
+              "id": 1694615464977,
+              "level": "warning",
+              "done": false,
+              "start": 1694615464977,
+              "date": "1694584800,1694671199",
+              "tags": [
+                "1693422043358"
+              ]
+            }
+          },
+          {
+            "key": 1695045803881,
+            "children": [],
+            "todo": {
+              "content": "Sesiones de ventas formato de Ticket ####",
+              "id": 1695045803881,
+              "level": "default",
+              "done": false,
+              "start": 1695045803881
+            }
+          },
           {
             "key": 1693421886515,
             "children": [],
@@ -2242,25 +2258,91 @@
             }
           },
           {
-            "key": 1694614290002,
+            "key": 1695045659242,
             "children": [],
             "todo": {
-              "content": "Instalar nueva computadora en Arbeauty",
-              "id": 1694614290002,
+              "content": "Actualizar Gala Bisutería",
+              "id": 1695045659242,
               "level": "default",
               "done": false,
-              "start": 1694614290003
+              "start": 1695045659242
             }
           },
           {
-            "key": 1694614316358,
+            "key": 1695045682653,
             "children": [],
             "todo": {
-              "content": "Instalar multuples tiendas en Leyde",
-              "id": 1694614316358,
+              "content": "Reunión inicial Tienda 1301",
+              "id": 1695045682653,
               "level": "default",
               "done": false,
-              "start": 1694614316359
+              "start": 1695045682653
+            }
+          },
+          {
+            "key": 1695045707872,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 1 Tienda 1301",
+              "id": 1695045707872,
+              "level": "default",
+              "done": false,
+              "start": 1695045707872
+            }
+          },
+          {
+            "key": 1695045733122,
+            "children": [],
+            "todo": {
+              "content": "Demo Pazziería",
+              "id": 1695045733122,
+              "level": "default",
+              "done": false,
+              "start": 1695045733122
+            }
+          },
+          {
+            "key": 1695045763583,
+            "children": [],
+            "todo": {
+              "content": "Contactar con SANRO",
+              "id": 1695045763583,
+              "level": "default",
+              "done": false,
+              "start": 1695045763583
+            }
+          },
+          {
+            "key": 1695045781589,
+            "children": [],
+            "todo": {
+              "content": "Cheke HN",
+              "id": 1695045781589,
+              "level": "default",
+              "done": false,
+              "start": 1695045781589
+            }
+          },
+          {
+            "key": 1695045793842,
+            "children": [],
+            "todo": {
+              "content": "La Marisquería",
+              "id": 1695045793842,
+              "level": "default",
+              "done": false,
+              "start": 1695045793842
+            }
+          },
+          {
+            "key": 1695045811465,
+            "children": [],
+            "todo": {
+              "content": "Fumiaires",
+              "id": 1695045811465,
+              "level": "default",
+              "done": false,
+              "start": 1695045811465
             }
           },
           {
@@ -2379,6 +2461,32 @@
               "date": "1694152800,1694239199",
               "focus": false,
               "end": 1694441077967
+            }
+          },
+          {
+            "key": 1694614316358,
+            "children": [],
+            "todo": {
+              "content": "Instalar multuples tiendas en Leyde",
+              "id": 1694614316358,
+              "level": "default",
+              "done": true,
+              "start": 1694614316359,
+              "focus": false,
+              "end": 1695045655264
+            }
+          },
+          {
+            "key": 1694614290002,
+            "children": [],
+            "todo": {
+              "content": "Instalar nueva computadora en Arbeauty",
+              "id": 1694614290002,
+              "level": "default",
+              "done": true,
+              "start": 1694614290003,
+              "focus": false,
+              "end": 1695045647658
             }
           },
           {
@@ -2557,6 +2665,6 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1694617402914"
+    "version": "1695046317422"
   }
 }
