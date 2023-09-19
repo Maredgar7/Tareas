@@ -1037,33 +1037,33 @@
         }
       },
       {
-        "key": 1695046581186,
+        "key": 1695133936923,
         "children": [],
         "todo": {
-          "content": "CSPQ-699 Sistema: Motivos de transacción deben cargar en modo lectura cuando se va modificar uno para validar permisos",
-          "id": 1695046581186,
+          "content": "CSPQ-704 Campos de usuario: debe cargar en modo lectura y validar permisos",
+          "id": 1695133936923,
           "level": "warning",
           "done": false,
-          "start": 1695046581186,
+          "start": 1695133936924,
           "tags": [
             "1693422043358"
           ],
-          "date": "1695016800,1695103199"
+          "date": "1695103200,1695189599"
         }
       },
       {
-        "key": 1695046537529,
+        "key": 1695134041013,
         "children": [],
         "todo": {
-          "content": "CSPQ-877 Fidelización: que todos los textbox tengan validación que solo permita ingresar números.",
-          "id": 1695046537529,
+          "content": "CSPQ-712 Condiciones: debe abrir en modo solo lectura",
+          "id": 1695134041013,
           "level": "warning",
           "done": false,
-          "start": 1695046537529,
-          "date": "1695016800,1695103199",
+          "start": 1695134041013,
           "tags": [
             "1693422043358"
-          ]
+          ],
+          "date": "1695103200,1695189599"
         }
       },
       {
@@ -1559,6 +1559,17 @@
               "done": false,
               "start": 1693704176311
             }
+          },
+          {
+            "key": 1695047612213,
+            "children": [],
+            "todo": {
+              "content": "https://albatrosservices.atlassian.net/wiki/spaces/CP/pages/2381611009/La+Tienda+1301",
+              "id": 1695047612213,
+              "level": "default",
+              "done": false,
+              "start": 1695047612214
+            }
           }
         ],
         "todo": {
@@ -1833,6 +1844,36 @@
               "done": false,
               "start": 1694615464977,
               "date": "1694584800,1694671199",
+              "tags": [
+                "1693422043358"
+              ]
+            }
+          },
+          {
+            "key": 1695046581186,
+            "children": [],
+            "todo": {
+              "content": "CSPQ-699 Sistema: Motivos de transacción deben cargar en modo lectura cuando se va modificar uno para validar permisos",
+              "id": 1695046581186,
+              "level": "warning",
+              "done": false,
+              "start": 1695046581186,
+              "tags": [
+                "1693422043358"
+              ],
+              "date": "1695016800,1695103199"
+            }
+          },
+          {
+            "key": 1695046537529,
+            "children": [],
+            "todo": {
+              "content": "CSPQ-877 Fidelización: que todos los textbox tengan validación que solo números.",
+              "id": 1695046537529,
+              "level": "warning",
+              "done": false,
+              "start": 1695046537529,
+              "date": "1695016800,1695103199",
               "tags": [
                 "1693422043358"
               ]
@@ -2332,28 +2373,6 @@
             }
           },
           {
-            "key": 1695045733122,
-            "children": [],
-            "todo": {
-              "content": "Demo Pazziería",
-              "id": 1695045733122,
-              "level": "default",
-              "done": false,
-              "start": 1695045733122
-            }
-          },
-          {
-            "key": 1695045763583,
-            "children": [],
-            "todo": {
-              "content": "Contactar con SANRO",
-              "id": 1695045763583,
-              "level": "default",
-              "done": false,
-              "start": 1695045763583
-            }
-          },
-          {
             "key": 1695045781589,
             "children": [],
             "todo": {
@@ -2377,13 +2396,114 @@
           },
           {
             "key": 1695045811465,
-            "children": [],
+            "children": [
+              {
+                "key": 1695134154132,
+                "children": [],
+                "todo": {
+                  "content": "Cargar Nueva base de datos con productos",
+                  "id": 1695134154132,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695134154132
+                }
+              }
+            ],
             "todo": {
               "content": "Fumiaires",
               "id": 1695045811465,
               "level": "default",
               "done": false,
               "start": 1695045811465
+            }
+          },
+          {
+            "key": 1695133165669,
+            "children": [
+              {
+                "key": 1695133177896,
+                "children": [],
+                "todo": {
+                  "content": "Baje a tienda",
+                  "id": 1695133177896,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695133177896
+                }
+              },
+              {
+                "key": 1695133189516,
+                "children": [],
+                "todo": {
+                  "content": "Se quede en HQ",
+                  "id": 1695133189516,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695133189516
+                }
+              },
+              {
+                "key": 1695133438569,
+                "children": [],
+                "todo": {
+                  "content": "Sobrante que base a tienda",
+                  "id": 1695133438569,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695133438570
+                }
+              },
+              {
+                "key": 1695133452251,
+                "children": [],
+                "todo": {
+                  "content": "sobrante Que se quede en HQ",
+                  "id": 1695133452251,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695133452251
+                }
+              },
+              {
+                "key": 1695133461555,
+                "children": [],
+                "todo": {
+                  "content": "sobrante Que base a otra tienda",
+                  "id": 1695133461555,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695133461555
+                }
+              },
+              {
+                "key": 1695133519294,
+                "children": [],
+                "todo": {
+                  "content": "Validar inventarios",
+                  "id": 1695133519294,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695133519294
+                }
+              },
+              {
+                "key": 1695133533599,
+                "children": [],
+                "todo": {
+                  "content": "Costo promedio",
+                  "id": 1695133533599,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695133533599
+                }
+              }
+            ],
+            "todo": {
+              "content": "Pruebas Intengración HQ",
+              "id": 1695133165669,
+              "level": "default",
+              "done": false,
+              "start": 1695133165669
             }
           },
           {
@@ -2502,6 +2622,32 @@
               "date": "1694152800,1694239199",
               "focus": false,
               "end": 1694441077967
+            }
+          },
+          {
+            "key": 1695045763583,
+            "children": [],
+            "todo": {
+              "content": "Contactar con SANRO (Pospuesto hasta segunda quincena noviembre)",
+              "id": 1695045763583,
+              "level": "default",
+              "done": true,
+              "start": 1695045763583,
+              "focus": false,
+              "end": 1695132918484
+            }
+          },
+          {
+            "key": 1695045733122,
+            "children": [],
+            "todo": {
+              "content": "Demo Pazziería",
+              "id": 1695045733122,
+              "level": "default",
+              "done": true,
+              "start": 1695045733122,
+              "focus": false,
+              "end": 1695072178155
             }
           },
           {
@@ -2663,7 +2809,9 @@
     ],
     "expandKeys": [
       1693492474104,
-      1693703674315
+      1693703674315,
+      1694008831769,
+      1695045811465
     ],
     "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
     "add_mode": "bottom",
@@ -2706,6 +2854,6 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1695046693842"
+    "version": "1695134168471"
   }
 }
