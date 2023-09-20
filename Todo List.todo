@@ -520,34 +520,6 @@
         "key": 1693705155124,
         "children": [
           {
-            "key": 1693705155133,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 3 - Compras",
-              "id": 1693703750616,
-              "level": "default",
-              "done": false,
-              "start": 1693703750616,
-              "focus": false,
-              "end": 1693704210692,
-              "date": "1693980000,1694066399"
-            }
-          },
-          {
-            "key": 1693705155134,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 4 - Ventas",
-              "id": 1693703798351,
-              "level": "default",
-              "done": false,
-              "start": 1693703798351,
-              "focus": false,
-              "end": 1693704212557,
-              "date": "1694066400,1694152799"
-            }
-          },
-          {
             "key": 1693705155135,
             "children": [],
             "todo": {
@@ -558,44 +530,6 @@
               "start": 1693703816269,
               "focus": false,
               "end": 1693704214751,
-              "date": "1694152800,1694239199"
-            }
-          },
-          {
-            "key": 1693705155136,
-            "children": [],
-            "todo": {
-              "content": "Revisión de excel de carga masiva",
-              "id": 1693704028802,
-              "level": "default",
-              "done": false,
-              "start": 1693704028802,
-              "date": "1694152800,1694239199"
-            }
-          },
-          {
-            "key": 1693705155137,
-            "children": [],
-            "todo": {
-              "content": "Carga Masiva de productos",
-              "id": 1693704082969,
-              "level": "default",
-              "done": false,
-              "start": 1693704082969,
-              "date": "1694152800,1694239199"
-            }
-          },
-          {
-            "key": 1693705155138,
-            "children": [],
-            "todo": {
-              "content": "Cargar Base de datos productiva en máquina cliente",
-              "id": 1693704099882,
-              "level": "default",
-              "done": false,
-              "start": 1693704099882,
-              "focus": false,
-              "end": 1693704222863,
               "date": "1694152800,1694239199"
             }
           },
@@ -621,6 +555,17 @@
               "done": false,
               "start": 1693704176311,
               "date": "1697004000,1697090399"
+            }
+          },
+          {
+            "key": 1695169051823,
+            "children": [],
+            "todo": {
+              "content": "Recapacitaciones 1/4",
+              "id": 1695169051823,
+              "level": "default",
+              "done": false,
+              "start": 1695169051823
             }
           },
           {
@@ -675,7 +620,7 @@
               "done": true,
               "start": 1693703695178,
               "focus": false,
-              "end": 1693864159501,
+              "end": 1695169038309,
               "date": "1693807200,1693893599"
             }
           },
@@ -734,8 +679,78 @@
               "done": true,
               "start": 1693703732964,
               "focus": false,
-              "end": 1693949712813,
+              "end": 1695169035912,
               "date": "1693893600,1693979999"
+            }
+          },
+          {
+            "key": 1693705155133,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 3 - Compras",
+              "id": 1693703750616,
+              "level": "default",
+              "done": true,
+              "start": 1693703750616,
+              "focus": false,
+              "end": 1695169039919,
+              "date": "1693980000,1694066399"
+            }
+          },
+          {
+            "key": 1693705155134,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 4 - Ventas",
+              "id": 1693703798351,
+              "level": "default",
+              "done": true,
+              "start": 1693703798351,
+              "focus": false,
+              "end": 1695169041521,
+              "date": "1694066400,1694152799"
+            }
+          },
+          {
+            "key": 1693705155136,
+            "children": [],
+            "todo": {
+              "content": "Revisión de excel de carga masiva",
+              "id": 1693704028802,
+              "level": "default",
+              "done": true,
+              "start": 1693704028802,
+              "date": "1694152800,1694239199",
+              "focus": false,
+              "end": 1695169081785
+            }
+          },
+          {
+            "key": 1693705155137,
+            "children": [],
+            "todo": {
+              "content": "Carga Masiva de productos",
+              "id": 1693704082969,
+              "level": "default",
+              "done": true,
+              "start": 1693704082969,
+              "date": "1694152800,1694239199",
+              "focus": false,
+              "end": 1695169079130
+            }
+          },
+          {
+            "key": 1693705155138,
+            "children": [],
+            "todo": {
+              "content": "Cargar Base de datos productiva en máquina cliente",
+              "id": 1693704099882,
+              "level": "default",
+              "done": true,
+              "start": 1693704099882,
+              "focus": false,
+              "end": 1695169074269,
+              "date": "1694152800,1694239199"
             }
           }
         ],
@@ -1328,117 +1343,6 @@
         "key": 1694616175968,
         "children": [
           {
-            "key": 1694616175969,
-            "children": [],
-            "todo": {
-              "content": "Contacto con el cliente para runión inicial",
-              "id": 1694615831957,
-              "level": "default",
-              "done": false,
-              "start": 1694615831957,
-              "date": "1694584800,1694671199"
-            }
-          },
-          {
-            "key": 1694616175986,
-            "children": [],
-            "todo": {
-              "content": "Reunión inicial",
-              "id": 1693703674315,
-              "level": "default",
-              "done": false,
-              "start": 1693703674315,
-              "focus": false,
-              "end": 1693705430412,
-              "date": "1695016800,1695103199"
-            }
-          },
-          {
-            "key": 1694616175987,
-            "children": [],
-            "todo": {
-              "content": "Kick Off",
-              "id": 1693703919590,
-              "level": "default",
-              "done": false,
-              "start": 1693703919590,
-              "focus": false,
-              "end": 1693705431394,
-              "date": "1695016800,1695103199"
-            }
-          },
-          {
-            "key": 1694616175971,
-            "children": [],
-            "todo": {
-              "content": "Compartir carpeta de implementación",
-              "id": 1694615957635,
-              "level": "default",
-              "done": false,
-              "start": 1694615957635,
-              "date": "1695016800,1695103199"
-            }
-          },
-          {
-            "key": 1694616175972,
-            "children": [],
-            "todo": {
-              "content": "Contratos y Conexiones",
-              "id": 1693703963390,
-              "level": "default",
-              "done": false,
-              "start": 1693703963390,
-              "focus": false,
-              "end": 1693704197102,
-              "date": "1695016800,1695103199"
-            }
-          },
-          {
-            "key": 1694616175973,
-            "children": [],
-            "todo": {
-              "content": "Liberar Instalador",
-              "id": 1693703843592,
-              "level": "default",
-              "done": false,
-              "start": 1693703843592,
-              "tags": [
-                "1693422138337"
-              ],
-              "focus": false,
-              "end": 1693704199932,
-              "date": "1695016800,1695103199"
-            }
-          },
-          {
-            "key": 1694616175974,
-            "children": [],
-            "todo": {
-              "content": "Instalaciones CS POS",
-              "id": 1693704003041,
-              "level": "default",
-              "done": false,
-              "start": 1693704003041,
-              "focus": false,
-              "end": 1693704204440,
-              "date": "1695016800,1695103199"
-            }
-          },
-          {
-            "key": 1694616175975,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 0 - Llenado de excel carga masiva",
-              "id": 1693703882789,
-              "level": "default",
-              "done": false,
-              "start": 1693703882789,
-              "focus": false,
-              "end": 1693704207618,
-              "date": "1695016800,1695103199"
-            }
-          },
-          {
             "key": 1694616175976,
             "children": [],
             "todo": {
@@ -1569,6 +1473,121 @@
               "level": "default",
               "done": false,
               "start": 1695047612214
+            }
+          },
+          {
+            "key": 1694616175969,
+            "children": [],
+            "todo": {
+              "content": "Contacto con el cliente para runión inicial",
+              "id": 1694615831957,
+              "level": "default",
+              "done": true,
+              "start": 1694615831957,
+              "date": "1694584800,1694671199",
+              "focus": false,
+              "end": 1695168956081
+            }
+          },
+          {
+            "key": 1694616175975,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 0 - Llenado de excel carga masiva",
+              "id": 1693703882789,
+              "level": "default",
+              "done": true,
+              "start": 1693703882789,
+              "focus": false,
+              "end": 1695168973132,
+              "date": "1695016800,1695103199"
+            }
+          },
+          {
+            "key": 1694616175974,
+            "children": [],
+            "todo": {
+              "content": "Instalaciones CS POS",
+              "id": 1693704003041,
+              "level": "default",
+              "done": true,
+              "start": 1693704003041,
+              "focus": false,
+              "end": 1695168970864,
+              "date": "1695016800,1695103199"
+            }
+          },
+          {
+            "key": 1694616175973,
+            "children": [],
+            "todo": {
+              "content": "Liberar Instalador",
+              "id": 1693703843592,
+              "level": "default",
+              "done": true,
+              "start": 1693703843592,
+              "tags": [
+                "1693422138337"
+              ],
+              "focus": false,
+              "end": 1695168968866,
+              "date": "1695016800,1695103199"
+            }
+          },
+          {
+            "key": 1694616175972,
+            "children": [],
+            "todo": {
+              "content": "Contratos y Conexiones",
+              "id": 1693703963390,
+              "level": "default",
+              "done": true,
+              "start": 1693703963390,
+              "focus": false,
+              "end": 1695168966868,
+              "date": "1695016800,1695103199"
+            }
+          },
+          {
+            "key": 1694616175971,
+            "children": [],
+            "todo": {
+              "content": "Compartir carpeta de implementación",
+              "id": 1694615957635,
+              "level": "default",
+              "done": true,
+              "start": 1694615957635,
+              "date": "1695016800,1695103199",
+              "focus": false,
+              "end": 1695168964361
+            }
+          },
+          {
+            "key": 1694616175987,
+            "children": [],
+            "todo": {
+              "content": "Kick Off",
+              "id": 1693703919590,
+              "level": "default",
+              "done": true,
+              "start": 1693703919590,
+              "focus": false,
+              "end": 1695168960044,
+              "date": "1695016800,1695103199"
+            }
+          },
+          {
+            "key": 1694616175986,
+            "children": [],
+            "todo": {
+              "content": "Reunión inicial",
+              "id": 1693703674315,
+              "level": "default",
+              "done": true,
+              "start": 1693703674315,
+              "focus": false,
+              "end": 1695168957900,
+              "date": "1695016800,1695103199"
             }
           }
         ],
@@ -2293,14 +2312,75 @@
                 }
               },
               {
+                "key": 1695168837301,
+                "children": [],
+                "todo": {
+                  "content": "Brigada 1",
+                  "id": 1695168837301,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695168837301
+                }
+              },
+              {
+                "key": 1695168850295,
+                "children": [],
+                "todo": {
+                  "content": "Brigada 2",
+                  "id": 1695168850295,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695168850295
+                }
+              },
+              {
+                "key": 1695168860740,
+                "children": [],
+                "todo": {
+                  "content": "QAS",
+                  "id": 1695168860740,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695168860740
+                }
+              },
+              {
+                "key": 1695168854732,
+                "children": [],
+                "todo": {
+                  "content": "Brigada 3",
+                  "id": 1695168854732,
+                  "level": "default",
+                  "done": true,
+                  "start": 1695168854732,
+                  "focus": false,
+                  "end": 1695168879481
+                }
+              },
+              {
+                "key": 1695168830950,
+                "children": [],
+                "todo": {
+                  "content": "Paseo Alto",
+                  "id": 1695168830950,
+                  "level": "default",
+                  "done": true,
+                  "start": 1695168830951,
+                  "focus": false,
+                  "end": 1695168872909
+                }
+              },
+              {
                 "key": 1693835789621,
                 "children": [],
                 "todo": {
-                  "content": "",
+                  "content": "San Miguel",
                   "id": 1693835789621,
                   "level": "default",
-                  "done": false,
-                  "start": 1693835789622
+                  "done": true,
+                  "start": 1693835789622,
+                  "focus": false,
+                  "end": 1695168869480
                 }
               }
             ],
@@ -2321,7 +2401,7 @@
             "key": 1694527633902,
             "children": [],
             "todo": {
-              "content": "Grabar videos",
+              "content": "Grabar videos 12/25",
               "id": 1694527633902,
               "level": "warning",
               "done": false,
@@ -2341,24 +2421,47 @@
           },
           {
             "key": 1695045659242,
-            "children": [],
+            "children": [
+              {
+                "key": 1695168913228,
+                "children": [],
+                "todo": {
+                  "content": "HQ",
+                  "id": 1695168913228,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695168913228
+                }
+              },
+              {
+                "key": 1695168921159,
+                "children": [],
+                "todo": {
+                  "content": "SPS",
+                  "id": 1695168921159,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695168921159
+                }
+              },
+              {
+                "key": 1695168928317,
+                "children": [],
+                "todo": {
+                  "content": "Progreso",
+                  "id": 1695168928317,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695168928317
+                }
+              }
+            ],
             "todo": {
               "content": "Actualizar Gala Bisutería",
               "id": 1695045659242,
               "level": "default",
               "done": false,
               "start": 1695045659242
-            }
-          },
-          {
-            "key": 1695045682653,
-            "children": [],
-            "todo": {
-              "content": "Reunión inicial Tienda 1301",
-              "id": 1695045682653,
-              "level": "default",
-              "done": false,
-              "start": 1695045682653
             }
           },
           {
@@ -2392,29 +2495,6 @@
               "level": "default",
               "done": false,
               "start": 1695045793842
-            }
-          },
-          {
-            "key": 1695045811465,
-            "children": [
-              {
-                "key": 1695134154132,
-                "children": [],
-                "todo": {
-                  "content": "Cargar Nueva base de datos con productos",
-                  "id": 1695134154132,
-                  "level": "default",
-                  "done": false,
-                  "start": 1695134154132
-                }
-              }
-            ],
-            "todo": {
-              "content": "Fumiaires",
-              "id": 1695045811465,
-              "level": "default",
-              "done": false,
-              "start": 1695045811465
             }
           },
           {
@@ -2625,6 +2705,85 @@
             }
           },
           {
+            "key": 1695168767028,
+            "children": [],
+            "todo": {
+              "content": "Reunión inicial La Tienda 1301",
+              "id": 1695168767028,
+              "level": "default",
+              "done": true,
+              "start": 1695168767029,
+              "focus": false,
+              "end": 1695168784778
+            }
+          },
+          {
+            "key": 1695168730709,
+            "children": [],
+            "todo": {
+              "content": "Demo Yonker",
+              "id": 1695168730709,
+              "level": "default",
+              "done": true,
+              "start": 1695168730709,
+              "focus": false,
+              "end": 1695168749444
+            }
+          },
+          {
+            "key": 1695168680100,
+            "children": [],
+            "todo": {
+              "content": "Recapacitacion 1 Fumiaires",
+              "id": 1695168680100,
+              "level": "default",
+              "done": true,
+              "start": 1695168680100,
+              "focus": false,
+              "end": 1695168717665
+            }
+          },
+          {
+            "key": 1695045811465,
+            "children": [
+              {
+                "key": 1695134154132,
+                "children": [],
+                "todo": {
+                  "content": "Cargar Nueva base de datos con productos",
+                  "id": 1695134154132,
+                  "level": "default",
+                  "done": true,
+                  "start": 1695134154132,
+                  "focus": false,
+                  "end": 1695168657964
+                }
+              }
+            ],
+            "todo": {
+              "content": "Fumiaires",
+              "id": 1695045811465,
+              "level": "default",
+              "done": true,
+              "start": 1695045811465,
+              "focus": false,
+              "end": 1695168711960
+            }
+          },
+          {
+            "key": 1695045682653,
+            "children": [],
+            "todo": {
+              "content": "Reunión inicial Tienda 1301",
+              "id": 1695045682653,
+              "level": "default",
+              "done": true,
+              "start": 1695045682653,
+              "focus": false,
+              "end": 1695168652462
+            }
+          },
+          {
             "key": 1695045763583,
             "children": [],
             "todo": {
@@ -2810,8 +2969,7 @@
     "expandKeys": [
       1693492474104,
       1693703674315,
-      1694008831769,
-      1695045811465
+      1693705155124
     ],
     "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
     "add_mode": "bottom",
@@ -2854,6 +3012,6 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1695134168471"
+    "version": "1695169109036"
   }
 }
