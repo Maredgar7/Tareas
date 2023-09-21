@@ -264,25 +264,29 @@
             }
           },
           {
-            "key": 1694538736523,
-            "children": [],
-            "todo": {
-              "content": "Crear el Script de la nueva colunma para HQ",
-              "id": 1694538736523,
-              "level": "default",
-              "done": false,
-              "start": 1694538736523
-            }
-          },
-          {
             "key": 1694538762039,
             "children": [],
             "todo": {
               "content": "Crear el Script de la nueva colunma para POS",
               "id": 1694538762039,
               "level": "default",
-              "done": false,
-              "start": 1694538762039
+              "done": true,
+              "start": 1694538762039,
+              "focus": false,
+              "end": 1695308770937
+            }
+          },
+          {
+            "key": 1694538736523,
+            "children": [],
+            "todo": {
+              "content": "Crear el Script de la nueva colunma para HQ",
+              "id": 1694538736523,
+              "level": "default",
+              "done": true,
+              "start": 1694538736523,
+              "focus": false,
+              "end": 1695308768283
             }
           }
         ],
@@ -322,25 +326,29 @@
             }
           },
           {
-            "key": 1693705261523,
-            "children": [],
-            "todo": {
-              "content": "Revisión de excel de carga masiva",
-              "id": 1693704028802,
-              "level": "default",
-              "done": false,
-              "start": 1693704028802
-            }
-          },
-          {
             "key": 1693705261524,
             "children": [],
             "todo": {
-              "content": "Carga Masiva de productos",
+              "content": "Carga Masiva de productos  (No la utilizaron)",
               "id": 1693704082969,
               "level": "default",
-              "done": false,
-              "start": 1693704082969
+              "done": true,
+              "start": 1693704082969,
+              "focus": false,
+              "end": 1695308725682
+            }
+          },
+          {
+            "key": 1693705261523,
+            "children": [],
+            "todo": {
+              "content": "Revisión de excel de carga masiva (No la utilizaron)",
+              "id": 1693704028802,
+              "level": "default",
+              "done": true,
+              "start": 1693704028802,
+              "focus": false,
+              "end": 1695308723929
             }
           },
           {
@@ -561,7 +569,7 @@
             "key": 1695169051823,
             "children": [],
             "todo": {
-              "content": "Recapacitaciones 1/4",
+              "content": "Recapacitaciones 2/4",
               "id": 1695169051823,
               "level": "default",
               "done": false,
@@ -771,67 +779,6 @@
         "key": 1693493973426,
         "children": [
           {
-            "key": 1693703798351,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 4 - Ventas",
-              "id": 1693703798351,
-              "level": "default",
-              "done": false,
-              "start": 1693703798351,
-              "focus": false,
-              "end": 1693704212557
-            }
-          },
-          {
-            "key": 1693703816269,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 5 - Reportes",
-              "id": 1693703816269,
-              "level": "default",
-              "done": false,
-              "start": 1693703816269,
-              "focus": false,
-              "end": 1693704214751
-            }
-          },
-          {
-            "key": 1693704028802,
-            "children": [],
-            "todo": {
-              "content": "Revisión de excel de carga masiva",
-              "id": 1693704028802,
-              "level": "default",
-              "done": false,
-              "start": 1693704028802
-            }
-          },
-          {
-            "key": 1693704082969,
-            "children": [],
-            "todo": {
-              "content": "Carga Masiva de productos",
-              "id": 1693704082969,
-              "level": "default",
-              "done": false,
-              "start": 1693704082969
-            }
-          },
-          {
-            "key": 1693704099882,
-            "children": [],
-            "todo": {
-              "content": "Cargar Base de datos productiva en máquina cliente",
-              "id": 1693704099882,
-              "level": "default",
-              "done": false,
-              "start": 1693704099882,
-              "focus": false,
-              "end": 1693704222863
-            }
-          },
-          {
             "key": 1693704137998,
             "children": [],
             "todo": {
@@ -851,6 +798,71 @@
               "level": "default",
               "done": false,
               "start": 1693704176311
+            }
+          },
+          {
+            "key": 1693704082969,
+            "children": [],
+            "todo": {
+              "content": "Carga Masiva de productos",
+              "id": 1693704082969,
+              "level": "default",
+              "done": true,
+              "start": 1693704082969,
+              "focus": false,
+              "end": 1695308546662
+            }
+          },
+          {
+            "key": 1693704099882,
+            "children": [],
+            "todo": {
+              "content": "Cargar Base de datos productiva en máquina cliente",
+              "id": 1693704099882,
+              "level": "default",
+              "done": true,
+              "start": 1693704099882,
+              "focus": false,
+              "end": 1695308543358
+            }
+          },
+          {
+            "key": 1693704028802,
+            "children": [],
+            "todo": {
+              "content": "Revisión de excel de carga masiva",
+              "id": 1693704028802,
+              "level": "default",
+              "done": true,
+              "start": 1693704028802,
+              "focus": false,
+              "end": 1695308131940
+            }
+          },
+          {
+            "key": 1693703816269,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 5 - Reportes",
+              "id": 1693703816269,
+              "level": "default",
+              "done": true,
+              "start": 1693703816269,
+              "focus": false,
+              "end": 1695308127990
+            }
+          },
+          {
+            "key": 1693703798351,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 4 - Ventas",
+              "id": 1693703798351,
+              "level": "default",
+              "done": true,
+              "start": 1693703798351,
+              "focus": false,
+              "end": 1695308126272
             }
           },
           {
@@ -1049,21 +1061,6 @@
             "1693422058040"
           ],
           "date": "1694412000,1695275999"
-        }
-      },
-      {
-        "key": 1695133936923,
-        "children": [],
-        "todo": {
-          "content": "CSPQ-704 Campos de usuario: debe cargar en modo lectura y validar permisos",
-          "id": 1695133936923,
-          "level": "warning",
-          "done": false,
-          "start": 1695133936924,
-          "tags": [
-            "1693422043358"
-          ],
-          "date": "1695103200,1695189599"
         }
       },
       {
@@ -1851,6 +1848,21 @@
         }
       },
       {
+        "key": 1695307006338,
+        "children": [],
+        "todo": {
+          "content": "CSPQ-1137 Error al Imprimir o exportar nota de crédito por método de pago",
+          "id": 1695307006338,
+          "level": "default",
+          "done": false,
+          "start": 1695307006338,
+          "date": "1695276000,1695362399",
+          "tags": [
+            "1693422043358"
+          ]
+        }
+      },
+      {
         "key": 1693922096638,
         "children": [
           {
@@ -1896,6 +1908,21 @@
               "tags": [
                 "1693422043358"
               ]
+            }
+          },
+          {
+            "key": 1695133936923,
+            "children": [],
+            "todo": {
+              "content": "CSPQ-704 Campos de usuario: debe cargar en modo lectura y validar permisos",
+              "id": 1695133936923,
+              "level": "warning",
+              "done": false,
+              "start": 1695133936924,
+              "tags": [
+                "1693422043358"
+              ],
+              "date": "1695103200,1695189599"
             }
           },
           {
@@ -2576,6 +2603,17 @@
                   "done": false,
                   "start": 1695133533599
                 }
+              },
+              {
+                "key": 1695220831303,
+                "children": [],
+                "todo": {
+                  "content": "Prueba de integración Almacen HQ sumando sobrante al mismo almacén",
+                  "id": 1695220831303,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695220831303
+                }
               }
             ],
             "todo": {
@@ -2969,7 +3007,7 @@
     "expandKeys": [
       1693492474104,
       1693703674315,
-      1693705155124
+      1695133165669
     ],
     "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
     "add_mode": "bottom",
@@ -3012,6 +3050,6 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1695169109036"
+    "version": "1695308791625"
   }
 }
