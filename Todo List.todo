@@ -228,1193 +228,8 @@
         }
       },
       {
-        "key": 1694537954294,
-        "children": [
-          {
-            "key": 1694537987203,
-            "children": [],
-            "todo": {
-              "content": "HQ: Agregar al socio la tienda por defecto",
-              "id": 1694537987203,
-              "level": "default",
-              "done": false,
-              "start": 1694537987203
-            }
-          },
-          {
-            "key": 1694538557184,
-            "children": [],
-            "todo": {
-              "content": "POS: Agregar al socio la tienda por defecto",
-              "id": 1694538557184,
-              "level": "default",
-              "done": false,
-              "start": 1694538557184
-            }
-          },
-          {
-            "key": 1694538592973,
-            "children": [],
-            "todo": {
-              "content": "Scheduler: Agrear la tienda po defecto donde sea que haya nacido el Socio",
-              "id": 1694538592973,
-              "level": "default",
-              "done": false,
-              "start": 1694538592973
-            }
-          },
-          {
-            "key": 1694538762039,
-            "children": [],
-            "todo": {
-              "content": "Crear el Script de la nueva colunma para POS",
-              "id": 1694538762039,
-              "level": "default",
-              "done": true,
-              "start": 1694538762039,
-              "focus": false,
-              "end": 1695308770937
-            }
-          },
-          {
-            "key": 1694538736523,
-            "children": [],
-            "todo": {
-              "content": "Crear el Script de la nueva colunma para HQ",
-              "id": 1694538736523,
-              "level": "default",
-              "done": true,
-              "start": 1694538736523,
-              "focus": false,
-              "end": 1695308768283
-            }
-          }
-        ],
-        "todo": {
-          "content": "A socios de negocio agregar la tienda por defecto",
-          "id": 1694537954294,
-          "level": "danger",
-          "done": false,
-          "start": 1694537954294
-        }
-      },
-      {
-        "key": 1693705261511,
-        "children": [
-          {
-            "key": 1693705261527,
-            "children": [],
-            "todo": {
-              "content": "Salida en vivo",
-              "id": 1693704176311,
-              "level": "default",
-              "done": false,
-              "start": 1693704176311,
-              "date": "1693807200,1693893599"
-            }
-          },
-          {
-            "key": 1693705261526,
-            "children": [],
-            "todo": {
-              "content": "Documentos de Aceptación de Cierre de Requerimientos DACR",
-              "id": 1693704137998,
-              "level": "default",
-              "done": false,
-              "start": 1693704137998,
-              "date": "1693807200,1693893599"
-            }
-          },
-          {
-            "key": 1693705261524,
-            "children": [],
-            "todo": {
-              "content": "Carga Masiva de productos  (No la utilizaron)",
-              "id": 1693704082969,
-              "level": "default",
-              "done": true,
-              "start": 1693704082969,
-              "focus": false,
-              "end": 1695308725682
-            }
-          },
-          {
-            "key": 1693705261523,
-            "children": [],
-            "todo": {
-              "content": "Revisión de excel de carga masiva (No la utilizaron)",
-              "id": 1693704028802,
-              "level": "default",
-              "done": true,
-              "start": 1693704028802,
-              "focus": false,
-              "end": 1695308723929
-            }
-          },
-          {
-            "key": 1693705261512,
-            "children": [],
-            "todo": {
-              "content": "Reunión inicial",
-              "id": 1693703674315,
-              "level": "default",
-              "done": true,
-              "start": 1693703674315,
-              "focus": false,
-              "end": 1693704187463
-            }
-          },
-          {
-            "key": 1693705261513,
-            "children": [],
-            "todo": {
-              "content": "Kick Off",
-              "id": 1693703919590,
-              "level": "default",
-              "done": true,
-              "start": 1693703919590,
-              "focus": false,
-              "end": 1693704194208
-            }
-          },
-          {
-            "key": 1693705261514,
-            "children": [],
-            "todo": {
-              "content": "Contratos y Conexiones",
-              "id": 1693703963390,
-              "level": "default",
-              "done": true,
-              "start": 1693703963390,
-              "focus": false,
-              "end": 1693704197102
-            }
-          },
-          {
-            "key": 1693705261515,
-            "children": [],
-            "todo": {
-              "content": "Liberar Instalador",
-              "id": 1693703843592,
-              "level": "default",
-              "done": true,
-              "start": 1693703843592,
-              "tags": [
-                "1693422138337"
-              ],
-              "focus": false,
-              "end": 1693704199932
-            }
-          },
-          {
-            "key": 1693705261516,
-            "children": [],
-            "todo": {
-              "content": "Instalaciones CS POS",
-              "id": 1693704003041,
-              "level": "default",
-              "done": true,
-              "start": 1693704003041,
-              "focus": false,
-              "end": 1693704204440
-            }
-          },
-          {
-            "key": 1693705261517,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 0 - Llenado de excel carga masiva",
-              "id": 1693703882789,
-              "level": "default",
-              "done": true,
-              "start": 1693703882789,
-              "focus": false,
-              "end": 1693704207618
-            }
-          },
-          {
-            "key": 1693705261518,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 1 - Socios y productos",
-              "id": 1693703695178,
-              "level": "default",
-              "done": true,
-              "start": 1693703695178,
-              "focus": false,
-              "end": 1693704208687
-            }
-          },
-          {
-            "key": 1693705261519,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 2 - Configuraciones",
-              "id": 1693703732964,
-              "level": "default",
-              "done": true,
-              "start": 1693703732964,
-              "focus": false,
-              "end": 1693704209562
-            }
-          },
-          {
-            "key": 1693705261520,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 3 - Compras",
-              "id": 1693703750616,
-              "level": "default",
-              "done": true,
-              "start": 1693703750616,
-              "focus": false,
-              "end": 1693704210692
-            }
-          },
-          {
-            "key": 1693705261521,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 4 - Ventas",
-              "id": 1693703798351,
-              "level": "default",
-              "done": true,
-              "start": 1693703798351,
-              "focus": false,
-              "end": 1693704212557
-            }
-          },
-          {
-            "key": 1693705261522,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 5 - Reportes",
-              "id": 1693703816269,
-              "level": "default",
-              "done": true,
-              "start": 1693703816269,
-              "focus": false,
-              "end": 1693704214751
-            }
-          },
-          {
-            "key": 1693705261525,
-            "children": [],
-            "todo": {
-              "content": "Cargar Base de datos productiva en máquina cliente",
-              "id": 1693704099882,
-              "level": "default",
-              "done": true,
-              "start": 1693704099882,
-              "focus": false,
-              "end": 1693704222863
-            }
-          }
-        ],
-        "todo": {
-          "content": "Implementación Ckeke HN",
-          "id": 1693493973426,
-          "level": "warning",
-          "done": false,
-          "start": 1693493973426,
-          "focus": false,
-          "tags": [
-            "1693422166740"
-          ],
-          "date": "1692165600,1693893599"
-        }
-      },
-      {
-        "key": 1693705155124,
-        "children": [
-          {
-            "key": 1693705155135,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 5 - Reportes",
-              "id": 1693703816269,
-              "level": "default",
-              "done": false,
-              "start": 1693703816269,
-              "focus": false,
-              "end": 1693704214751,
-              "date": "1694152800,1694239199"
-            }
-          },
-          {
-            "key": 1693705155139,
-            "children": [],
-            "todo": {
-              "content": "Documentos de Aceptación de Cierre de Requerimientos DACR",
-              "id": 1693704137998,
-              "level": "default",
-              "done": false,
-              "start": 1693704137998,
-              "date": "1694152800,1694239199"
-            }
-          },
-          {
-            "key": 1693705155140,
-            "children": [],
-            "todo": {
-              "content": "Salida en vivo",
-              "id": 1693704176311,
-              "level": "default",
-              "done": false,
-              "start": 1693704176311,
-              "date": "1697004000,1697090399"
-            }
-          },
-          {
-            "key": 1695169051823,
-            "children": [],
-            "todo": {
-              "content": "Recapacitaciones 2/4",
-              "id": 1695169051823,
-              "level": "default",
-              "done": false,
-              "start": 1695169051823
-            }
-          },
-          {
-            "key": 1693705155125,
-            "children": [],
-            "todo": {
-              "content": "Reunión inicial",
-              "id": 1693703674315,
-              "level": "default",
-              "done": true,
-              "start": 1693703674315,
-              "focus": false,
-              "end": 1693705075230,
-              "date": "1692856800,1692943199"
-            }
-          },
-          {
-            "key": 1693705155126,
-            "children": [],
-            "todo": {
-              "content": "Kick Off",
-              "id": 1693703919590,
-              "level": "default",
-              "done": true,
-              "start": 1693703919590,
-              "focus": false,
-              "end": 1693705076314,
-              "date": "1692856800,1692943199"
-            }
-          },
-          {
-            "key": 1693705155130,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 0 - Llenado de excel carga masiva",
-              "id": 1693703882789,
-              "level": "default",
-              "done": true,
-              "start": 1693703882789,
-              "focus": false,
-              "end": 1693705071179,
-              "date": "1692856800,1692943199"
-            }
-          },
-          {
-            "key": 1693705155131,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 1 - Socios y productos",
-              "id": 1693703695178,
-              "level": "default",
-              "done": true,
-              "start": 1693703695178,
-              "focus": false,
-              "end": 1695169038309,
-              "date": "1693807200,1693893599"
-            }
-          },
-          {
-            "key": 1693705155129,
-            "children": [],
-            "todo": {
-              "content": "Instalaciones CS POS",
-              "id": 1693704003041,
-              "level": "default",
-              "done": true,
-              "start": 1693704003041,
-              "focus": false,
-              "end": 1693864156249,
-              "date": "1693807200,1693893599"
-            }
-          },
-          {
-            "key": 1693705155127,
-            "children": [],
-            "todo": {
-              "content": "Contratos y Conexiones",
-              "id": 1693703963390,
-              "level": "default",
-              "done": true,
-              "start": 1693703963390,
-              "focus": false,
-              "end": 1693864153657,
-              "date": "1693807200,1693893599"
-            }
-          },
-          {
-            "key": 1693705155128,
-            "children": [],
-            "todo": {
-              "content": "Liberar Instalador",
-              "id": 1693703843592,
-              "level": "default",
-              "done": true,
-              "start": 1693703843592,
-              "tags": [
-                "1693422138337"
-              ],
-              "focus": false,
-              "end": 1693849483514,
-              "date": "1693807200,1693893599"
-            }
-          },
-          {
-            "key": 1693705155132,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 2 - Configuraciones",
-              "id": 1693703732964,
-              "level": "default",
-              "done": true,
-              "start": 1693703732964,
-              "focus": false,
-              "end": 1695169035912,
-              "date": "1693893600,1693979999"
-            }
-          },
-          {
-            "key": 1693705155133,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 3 - Compras",
-              "id": 1693703750616,
-              "level": "default",
-              "done": true,
-              "start": 1693703750616,
-              "focus": false,
-              "end": 1695169039919,
-              "date": "1693980000,1694066399"
-            }
-          },
-          {
-            "key": 1693705155134,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 4 - Ventas",
-              "id": 1693703798351,
-              "level": "default",
-              "done": true,
-              "start": 1693703798351,
-              "focus": false,
-              "end": 1695169041521,
-              "date": "1694066400,1694152799"
-            }
-          },
-          {
-            "key": 1693705155136,
-            "children": [],
-            "todo": {
-              "content": "Revisión de excel de carga masiva",
-              "id": 1693704028802,
-              "level": "default",
-              "done": true,
-              "start": 1693704028802,
-              "date": "1694152800,1694239199",
-              "focus": false,
-              "end": 1695169081785
-            }
-          },
-          {
-            "key": 1693705155137,
-            "children": [],
-            "todo": {
-              "content": "Carga Masiva de productos",
-              "id": 1693704082969,
-              "level": "default",
-              "done": true,
-              "start": 1693704082969,
-              "date": "1694152800,1694239199",
-              "focus": false,
-              "end": 1695169079130
-            }
-          },
-          {
-            "key": 1693705155138,
-            "children": [],
-            "todo": {
-              "content": "Cargar Base de datos productiva en máquina cliente",
-              "id": 1693704099882,
-              "level": "default",
-              "done": true,
-              "start": 1693704099882,
-              "focus": false,
-              "end": 1695169074269,
-              "date": "1694152800,1694239199"
-            }
-          }
-        ],
-        "todo": {
-          "content": "Implementación Inversiones Fumiaires",
-          "id": 1693493973426,
-          "level": "warning",
-          "done": false,
-          "start": 1693493973426,
-          "focus": false,
-          "tags": [
-            "1693422166740"
-          ],
-          "date": "1692856800,1694498399"
-        }
-      },
-      {
-        "key": 1693493973426,
-        "children": [
-          {
-            "key": 1693704137998,
-            "children": [],
-            "todo": {
-              "content": "Documentos de Aceptación de Cierre de Requerimientos DACR",
-              "id": 1693704137998,
-              "level": "default",
-              "done": false,
-              "start": 1693704137998
-            }
-          },
-          {
-            "key": 1693704176311,
-            "children": [],
-            "todo": {
-              "content": "Salida en vivo",
-              "id": 1693704176311,
-              "level": "default",
-              "done": false,
-              "start": 1693704176311
-            }
-          },
-          {
-            "key": 1693704082969,
-            "children": [],
-            "todo": {
-              "content": "Carga Masiva de productos",
-              "id": 1693704082969,
-              "level": "default",
-              "done": true,
-              "start": 1693704082969,
-              "focus": false,
-              "end": 1695308546662
-            }
-          },
-          {
-            "key": 1693704099882,
-            "children": [],
-            "todo": {
-              "content": "Cargar Base de datos productiva en máquina cliente",
-              "id": 1693704099882,
-              "level": "default",
-              "done": true,
-              "start": 1693704099882,
-              "focus": false,
-              "end": 1695308543358
-            }
-          },
-          {
-            "key": 1693704028802,
-            "children": [],
-            "todo": {
-              "content": "Revisión de excel de carga masiva",
-              "id": 1693704028802,
-              "level": "default",
-              "done": true,
-              "start": 1693704028802,
-              "focus": false,
-              "end": 1695308131940
-            }
-          },
-          {
-            "key": 1693703816269,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 5 - Reportes",
-              "id": 1693703816269,
-              "level": "default",
-              "done": true,
-              "start": 1693703816269,
-              "focus": false,
-              "end": 1695308127990
-            }
-          },
-          {
-            "key": 1693703798351,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 4 - Ventas",
-              "id": 1693703798351,
-              "level": "default",
-              "done": true,
-              "start": 1693703798351,
-              "focus": false,
-              "end": 1695308126272
-            }
-          },
-          {
-            "key": 1693703750616,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 3 - Compras",
-              "id": 1693703750616,
-              "level": "default",
-              "done": true,
-              "start": 1693703750616,
-              "focus": false,
-              "end": 1693928293812
-            }
-          },
-          {
-            "key": 1693703674315,
-            "children": [],
-            "todo": {
-              "content": "Reunión inicial",
-              "id": 1693703674315,
-              "level": "default",
-              "done": true,
-              "start": 1693703674315,
-              "focus": false,
-              "end": 1693704187463
-            }
-          },
-          {
-            "key": 1693703919590,
-            "children": [],
-            "todo": {
-              "content": "Kick Off",
-              "id": 1693703919590,
-              "level": "default",
-              "done": true,
-              "start": 1693703919590,
-              "focus": false,
-              "end": 1693704194208
-            }
-          },
-          {
-            "key": 1693703963390,
-            "children": [],
-            "todo": {
-              "content": "Contratos y Conexiones",
-              "id": 1693703963390,
-              "level": "default",
-              "done": true,
-              "start": 1693703963390,
-              "focus": false,
-              "end": 1693704197102
-            }
-          },
-          {
-            "key": 1693703843592,
-            "children": [],
-            "todo": {
-              "content": "Liberar Instalador",
-              "id": 1693703843592,
-              "level": "default",
-              "done": true,
-              "start": 1693703843592,
-              "tags": [
-                "1693422138337"
-              ],
-              "focus": false,
-              "end": 1693704199932
-            }
-          },
-          {
-            "key": 1693704003041,
-            "children": [],
-            "todo": {
-              "content": "Instalaciones CS POS",
-              "id": 1693704003041,
-              "level": "default",
-              "done": true,
-              "start": 1693704003041,
-              "focus": false,
-              "end": 1693704204440
-            }
-          },
-          {
-            "key": 1693703882789,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 0 - Llenado de excel carga masiva",
-              "id": 1693703882789,
-              "level": "default",
-              "done": true,
-              "start": 1693703882789,
-              "focus": false,
-              "end": 1693704207618
-            }
-          },
-          {
-            "key": 1693703695178,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 1 - Socios y productos",
-              "id": 1693703695178,
-              "level": "default",
-              "done": true,
-              "start": 1693703695178,
-              "focus": false,
-              "end": 1693704208687
-            }
-          },
-          {
-            "key": 1693703732964,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 2 - Configuraciones",
-              "id": 1693703732964,
-              "level": "default",
-              "done": true,
-              "start": 1693703732964,
-              "focus": false,
-              "end": 1693704209562
-            }
-          }
-        ],
-        "todo": {
-          "content": "Implementación La Marisquería",
-          "id": 1693493973426,
-          "level": "warning",
-          "done": false,
-          "start": 1693493973426,
-          "focus": false,
-          "tags": [
-            "1693422166740"
-          ],
-          "date": "1693202400,1694152799"
-        }
-      },
-      {
-        "key": 1693421470086,
-        "children": [
-          {
-            "key": 1693421494862,
-            "children": [
-              {
-                "key": 1693421555383,
-                "children": [],
-                "todo": {
-                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1173",
-                  "id": 1693421555383,
-                  "level": "default",
-                  "done": false,
-                  "start": 1693421555383
-                }
-              }
-            ],
-            "todo": {
-              "content": "Víctor: Replicar en HQ el proceso de transformación",
-              "id": 1693421494862,
-              "level": "default",
-              "done": false,
-              "start": 1693421494862,
-              "focus": false,
-              "end": 1693421578192
-            }
-          },
-          {
-            "key": 1693421596423,
-            "children": [
-              {
-                "key": 1693421630229,
-                "children": [],
-                "todo": {
-                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1171",
-                  "id": 1693421630229,
-                  "level": "default",
-                  "done": false,
-                  "start": 1693421630229
-                }
-              }
-            ],
-            "todo": {
-              "content": "Josué: Integración del proceso de Transformación",
-              "id": 1693421596423,
-              "level": "default",
-              "done": false,
-              "start": 1693421596423
-            }
-          }
-        ],
-        "todo": {
-          "content": "Integración Transformación",
-          "id": 1693421470086,
-          "level": "warning",
-          "done": false,
-          "start": 1693421470086,
-          "tags": [
-            "1693422058040"
-          ],
-          "date": "1694412000,1695275999"
-        }
-      },
-      {
-        "key": 1695134041013,
-        "children": [],
-        "todo": {
-          "content": "CSPQ-712 Condiciones: debe abrir en modo solo lectura",
-          "id": 1695134041013,
-          "level": "warning",
-          "done": false,
-          "start": 1695134041013,
-          "tags": [
-            "1693422043358"
-          ],
-          "date": "1695103200,1695189599"
-        }
-      },
-      {
-        "key": 1693704329691,
-        "children": [
-          {
-            "key": 1694615831957,
-            "children": [],
-            "todo": {
-              "content": "Contacto con el cliente para retomar la implementación",
-              "id": 1694615831957,
-              "level": "default",
-              "done": false,
-              "start": 1694615831957,
-              "date": "1694584800,1694671199"
-            }
-          },
-          {
-            "key": 1694615926801,
-            "children": [],
-            "todo": {
-              "content": "Grabar video de llenado del excel",
-              "id": 1694615926801,
-              "level": "default",
-              "done": false,
-              "start": 1694615926801,
-              "date": "1694584800,1694671199"
-            }
-          },
-          {
-            "key": 1694615957635,
-            "children": [],
-            "todo": {
-              "content": "Enviar video de llenado de excel",
-              "id": 1694615957635,
-              "level": "default",
-              "done": false,
-              "start": 1694615957635,
-              "date": "1694584800,1694671199"
-            }
-          },
-          {
-            "key": 1693704329694,
-            "children": [],
-            "todo": {
-              "content": "Contratos y Conexiones",
-              "id": 1693703963390,
-              "level": "default",
-              "done": false,
-              "start": 1693703963390,
-              "focus": false,
-              "end": 1693704197102
-            }
-          },
-          {
-            "key": 1693704329695,
-            "children": [],
-            "todo": {
-              "content": "Liberar Instalador",
-              "id": 1693703843592,
-              "level": "default",
-              "done": false,
-              "start": 1693703843592,
-              "tags": [
-                "1693422138337"
-              ],
-              "focus": false,
-              "end": 1693704199932
-            }
-          },
-          {
-            "key": 1693704329696,
-            "children": [],
-            "todo": {
-              "content": "Instalaciones CS POS",
-              "id": 1693704003041,
-              "level": "default",
-              "done": false,
-              "start": 1693704003041,
-              "focus": false,
-              "end": 1693704204440
-            }
-          },
-          {
-            "key": 1693704329697,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 0 - Llenado de excel carga masiva",
-              "id": 1693703882789,
-              "level": "default",
-              "done": false,
-              "start": 1693703882789,
-              "focus": false,
-              "end": 1693704207618
-            }
-          },
-          {
-            "key": 1693704329698,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 1 - Socios y productos",
-              "id": 1693703695178,
-              "level": "default",
-              "done": false,
-              "start": 1693703695178,
-              "focus": false,
-              "end": 1693704208687
-            }
-          },
-          {
-            "key": 1693704329699,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 2 - Configuraciones",
-              "id": 1693703732964,
-              "level": "default",
-              "done": false,
-              "start": 1693703732964,
-              "focus": false,
-              "end": 1693704209562
-            }
-          },
-          {
-            "key": 1693704329700,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 3 - Compras",
-              "id": 1693703750616,
-              "level": "default",
-              "done": false,
-              "start": 1693703750616,
-              "focus": false,
-              "end": 1693704210692
-            }
-          },
-          {
-            "key": 1693704329701,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 4 - Ventas",
-              "id": 1693703798351,
-              "level": "default",
-              "done": false,
-              "start": 1693703798351,
-              "focus": false,
-              "end": 1693704212557
-            }
-          },
-          {
-            "key": 1693704329702,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 5 - Reportes",
-              "id": 1693703816269,
-              "level": "default",
-              "done": false,
-              "start": 1693703816269,
-              "focus": false,
-              "end": 1693704214751
-            }
-          },
-          {
-            "key": 1693704329703,
-            "children": [],
-            "todo": {
-              "content": "Revisión de excel de carga masiva",
-              "id": 1693704028802,
-              "level": "default",
-              "done": false,
-              "start": 1693704028802
-            }
-          },
-          {
-            "key": 1693704329704,
-            "children": [],
-            "todo": {
-              "content": "Carga Masiva de productos",
-              "id": 1693704082969,
-              "level": "default",
-              "done": false,
-              "start": 1693704082969
-            }
-          },
-          {
-            "key": 1693704329705,
-            "children": [],
-            "todo": {
-              "content": "Cargar Base de datos productiva en máquina cliente",
-              "id": 1693704099882,
-              "level": "default",
-              "done": false,
-              "start": 1693704099882,
-              "focus": false,
-              "end": 1693704222863
-            }
-          },
-          {
-            "key": 1693704329706,
-            "children": [],
-            "todo": {
-              "content": "Documentos de Aceptación de Cierre de Requerimientos DACR",
-              "id": 1693704137998,
-              "level": "default",
-              "done": false,
-              "start": 1693704137998
-            }
-          },
-          {
-            "key": 1693704329707,
-            "children": [],
-            "todo": {
-              "content": "Salida en vivo",
-              "id": 1693704176311,
-              "level": "default",
-              "done": false,
-              "start": 1693704176311
-            }
-          },
-          {
-            "key": 1693704329692,
-            "children": [],
-            "todo": {
-              "content": "Reunión inicial",
-              "id": 1693703674315,
-              "level": "default",
-              "done": true,
-              "start": 1693703674315,
-              "focus": false,
-              "end": 1693705430412,
-              "date": "1689919200,1690005599"
-            }
-          },
-          {
-            "key": 1693704329693,
-            "children": [],
-            "todo": {
-              "content": "Kick Off",
-              "id": 1693703919590,
-              "level": "default",
-              "done": true,
-              "start": 1693703919590,
-              "focus": false,
-              "end": 1693705431394,
-              "date": "1689919200,1690005599"
-            }
-          }
-        ],
-        "todo": {
-          "content": "Implementación Inversiones Sanro",
-          "id": 1693493973426,
-          "level": "warning",
-          "done": false,
-          "start": 1693493973426,
-          "focus": false,
-          "tags": [
-            "1693422166740"
-          ],
-          "date": null
-        }
-      },
-      {
         "key": 1694616175968,
         "children": [
-          {
-            "key": 1694616175976,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 1 - Socios y productos",
-              "id": 1693703695178,
-              "level": "default",
-              "done": false,
-              "start": 1693703695178,
-              "focus": false,
-              "end": 1693704208687
-            }
-          },
-          {
-            "key": 1694616175977,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 2 - Configuraciones",
-              "id": 1693703732964,
-              "level": "default",
-              "done": false,
-              "start": 1693703732964,
-              "focus": false,
-              "end": 1693704209562
-            }
-          },
-          {
-            "key": 1694616175978,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 3 - Compras",
-              "id": 1693703750616,
-              "level": "default",
-              "done": false,
-              "start": 1693703750616,
-              "focus": false,
-              "end": 1693704210692
-            }
-          },
-          {
-            "key": 1694616175979,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 4 - Ventas",
-              "id": 1693703798351,
-              "level": "default",
-              "done": false,
-              "start": 1693703798351,
-              "focus": false,
-              "end": 1693704212557
-            }
-          },
-          {
-            "key": 1694616175980,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 5 - Reportes",
-              "id": 1693703816269,
-              "level": "default",
-              "done": false,
-              "start": 1693703816269,
-              "focus": false,
-              "end": 1693704214751
-            }
-          },
-          {
-            "key": 1694616175981,
-            "children": [],
-            "todo": {
-              "content": "Revisión de excel de carga masiva",
-              "id": 1693704028802,
-              "level": "default",
-              "done": false,
-              "start": 1693704028802
-            }
-          },
           {
             "key": 1694616175982,
             "children": [],
@@ -1586,10 +401,342 @@
               "end": 1695168957900,
               "date": "1695016800,1695103199"
             }
+          },
+          {
+            "key": 1694616175981,
+            "children": [],
+            "todo": {
+              "content": "Revisión de excel de carga masiva",
+              "id": 1693704028802,
+              "level": "default",
+              "done": true,
+              "start": 1693704028802,
+              "focus": false,
+              "end": 1695823542596
+            }
+          },
+          {
+            "key": 1694616175980,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 5 - Reportes",
+              "id": 1693703816269,
+              "level": "default",
+              "done": true,
+              "start": 1693703816269,
+              "focus": false,
+              "end": 1695823537885
+            }
+          },
+          {
+            "key": 1694616175979,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 4 - Ventas",
+              "id": 1693703798351,
+              "level": "default",
+              "done": true,
+              "start": 1693703798351,
+              "focus": false,
+              "end": 1695823535236
+            }
+          },
+          {
+            "key": 1694616175978,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 3 - Compras",
+              "id": 1693703750616,
+              "level": "default",
+              "done": true,
+              "start": 1693703750616,
+              "focus": false,
+              "end": 1695656076172
+            }
+          },
+          {
+            "key": 1694616175977,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 2 - Configuraciones",
+              "id": 1693703732964,
+              "level": "default",
+              "done": true,
+              "start": 1693703732964,
+              "focus": false,
+              "end": 1695333291115
+            }
+          },
+          {
+            "key": 1694616175976,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 1 - Socios y productos",
+              "id": 1693703695178,
+              "level": "default",
+              "done": true,
+              "start": 1693703695178,
+              "focus": false,
+              "end": 1695333288412
+            }
           }
         ],
         "todo": {
           "content": "Implementación La Tienda 1301",
+          "id": 1693493973426,
+          "level": "warning",
+          "done": false,
+          "start": 1693493973426,
+          "focus": false,
+          "tags": [
+            "1693422166740"
+          ],
+          "date": null
+        }
+      },
+      {
+        "key": 1695664664329,
+        "children": [
+          {
+            "key": 1695664664339,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 2 - Configuraciones",
+              "id": 1693703732964,
+              "level": "default",
+              "done": false,
+              "start": 1693703732964,
+              "focus": false,
+              "end": 1693704209562
+            }
+          },
+          {
+            "key": 1695664664340,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 3 - Compras",
+              "id": 1693703750616,
+              "level": "default",
+              "done": false,
+              "start": 1693703750616,
+              "focus": false,
+              "end": 1693704210692
+            }
+          },
+          {
+            "key": 1695664664341,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 4 - Ventas",
+              "id": 1693703798351,
+              "level": "default",
+              "done": false,
+              "start": 1693703798351,
+              "focus": false,
+              "end": 1693704212557
+            }
+          },
+          {
+            "key": 1695664664342,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 5 - Reportes",
+              "id": 1693703816269,
+              "level": "default",
+              "done": false,
+              "start": 1693703816269,
+              "focus": false,
+              "end": 1693704214751
+            }
+          },
+          {
+            "key": 1695664664346,
+            "children": [],
+            "todo": {
+              "content": "Documentos de Aceptación de Cierre de Requerimientos DACR",
+              "id": 1693704137998,
+              "level": "default",
+              "done": false,
+              "start": 1693704137998
+            }
+          },
+          {
+            "key": 1695664664347,
+            "children": [],
+            "todo": {
+              "content": "Salida en vivo",
+              "id": 1693704176311,
+              "level": "default",
+              "done": false,
+              "start": 1693704176311
+            }
+          },
+          {
+            "key": 1695664664345,
+            "children": [],
+            "todo": {
+              "content": "Cargar Base de datos productiva en máquina cliente",
+              "id": 1693704099882,
+              "level": "default",
+              "done": true,
+              "start": 1693704099882,
+              "focus": false,
+              "end": 1696016605399
+            }
+          },
+          {
+            "key": 1695664664344,
+            "children": [],
+            "todo": {
+              "content": "Carga Masiva de productos",
+              "id": 1693704082969,
+              "level": "default",
+              "done": true,
+              "start": 1693704082969,
+              "focus": false,
+              "end": 1696016602813
+            }
+          },
+          {
+            "key": 1695664664343,
+            "children": [],
+            "todo": {
+              "content": "Revisión de excel de carga masiva",
+              "id": 1693704028802,
+              "level": "default",
+              "done": true,
+              "start": 1693704028802,
+              "focus": false,
+              "end": 1696016600523
+            }
+          },
+          {
+            "key": 1695664664337,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 0 - Llenado de excel carga masiva",
+              "id": 1693703882789,
+              "level": "default",
+              "done": true,
+              "start": 1693703882789,
+              "focus": false,
+              "end": 1696016593715
+            }
+          },
+          {
+            "key": 1695664664336,
+            "children": [],
+            "todo": {
+              "content": "Instalaciones CS POS",
+              "id": 1693704003041,
+              "level": "default",
+              "done": true,
+              "start": 1693704003041,
+              "focus": false,
+              "end": 1696016591641
+            }
+          },
+          {
+            "key": 1695664664334,
+            "children": [],
+            "todo": {
+              "content": "Contratos y Conexiones",
+              "id": 1693703963390,
+              "level": "default",
+              "done": true,
+              "start": 1693703963390,
+              "focus": false,
+              "end": 1696016588401
+            }
+          },
+          {
+            "key": 1695664664335,
+            "children": [],
+            "todo": {
+              "content": "Liberar Instalador",
+              "id": 1693703843592,
+              "level": "default",
+              "done": true,
+              "start": 1693703843592,
+              "tags": [
+                "1693422138337"
+              ],
+              "focus": false,
+              "end": 1696016586631
+            }
+          },
+          {
+            "key": 1695664664338,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 1 - Socios y productos",
+              "id": 1693703695178,
+              "level": "default",
+              "done": true,
+              "start": 1693703695178,
+              "focus": false,
+              "end": 1695996200344
+            }
+          },
+          {
+            "key": 1695664664333,
+            "children": [],
+            "todo": {
+              "content": "Compartir carpeta de implementación",
+              "id": 1694615957635,
+              "level": "default",
+              "done": true,
+              "start": 1694615957635,
+              "date": null,
+              "focus": false,
+              "end": 1695823827761
+            }
+          },
+          {
+            "key": 1695664664332,
+            "children": [],
+            "todo": {
+              "content": "Kick Off",
+              "id": 1693703919590,
+              "level": "default",
+              "done": true,
+              "start": 1693703919590,
+              "focus": false,
+              "end": 1695823567446,
+              "date": null
+            }
+          },
+          {
+            "key": 1695664664331,
+            "children": [],
+            "todo": {
+              "content": "Reunión inicial",
+              "id": 1693703674315,
+              "level": "default",
+              "done": true,
+              "start": 1693703674315,
+              "focus": false,
+              "end": 1695823563099,
+              "date": null
+            }
+          },
+          {
+            "key": 1695664664330,
+            "children": [],
+            "todo": {
+              "content": "Contacto con el cliente para runión inicial",
+              "id": 1694615831957,
+              "level": "default",
+              "done": true,
+              "start": 1694615831957,
+              "date": null,
+              "focus": false,
+              "end": 1695823559809
+            }
+          }
+        ],
+        "todo": {
+          "content": "Implementación Yonker Ramos",
           "id": 1693493973426,
           "level": "warning",
           "done": false,
@@ -1848,94 +995,500 @@
         }
       },
       {
-        "key": 1695307006338,
-        "children": [],
+        "key": 1695664958738,
+        "children": [
+          {
+            "key": 1695664958739,
+            "children": [],
+            "todo": {
+              "content": "Contacto con el cliente para runión inicial",
+              "id": 1694615831957,
+              "level": "default",
+              "done": false,
+              "start": 1694615831957,
+              "date": null
+            }
+          },
+          {
+            "key": 1695664958740,
+            "children": [],
+            "todo": {
+              "content": "Reunión inicial",
+              "id": 1693703674315,
+              "level": "default",
+              "done": false,
+              "start": 1693703674315,
+              "focus": false,
+              "end": 1693705430412,
+              "date": null
+            }
+          },
+          {
+            "key": 1695664958741,
+            "children": [],
+            "todo": {
+              "content": "Kick Off",
+              "id": 1693703919590,
+              "level": "default",
+              "done": false,
+              "start": 1693703919590,
+              "focus": false,
+              "end": 1693705431394,
+              "date": null
+            }
+          },
+          {
+            "key": 1695664958742,
+            "children": [],
+            "todo": {
+              "content": "Compartir carpeta de implementación",
+              "id": 1694615957635,
+              "level": "default",
+              "done": false,
+              "start": 1694615957635,
+              "date": null
+            }
+          },
+          {
+            "key": 1695664958743,
+            "children": [],
+            "todo": {
+              "content": "Contratos y Conexiones",
+              "id": 1693703963390,
+              "level": "default",
+              "done": false,
+              "start": 1693703963390,
+              "focus": false,
+              "end": 1693704197102
+            }
+          },
+          {
+            "key": 1695664958744,
+            "children": [],
+            "todo": {
+              "content": "Liberar Instalador",
+              "id": 1693703843592,
+              "level": "default",
+              "done": false,
+              "start": 1693703843592,
+              "tags": [
+                "1693422138337"
+              ],
+              "focus": false,
+              "end": 1693704199932
+            }
+          },
+          {
+            "key": 1695664958745,
+            "children": [],
+            "todo": {
+              "content": "Instalaciones CS POS",
+              "id": 1693704003041,
+              "level": "default",
+              "done": false,
+              "start": 1693704003041,
+              "focus": false,
+              "end": 1693704204440
+            }
+          },
+          {
+            "key": 1695664958746,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 0 - Llenado de excel carga masiva",
+              "id": 1693703882789,
+              "level": "default",
+              "done": false,
+              "start": 1693703882789,
+              "focus": false,
+              "end": 1693704207618
+            }
+          },
+          {
+            "key": 1695664958747,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 1 - Socios y productos",
+              "id": 1693703695178,
+              "level": "default",
+              "done": false,
+              "start": 1693703695178,
+              "focus": false,
+              "end": 1693704208687
+            }
+          },
+          {
+            "key": 1695664958748,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 2 - Configuraciones",
+              "id": 1693703732964,
+              "level": "default",
+              "done": false,
+              "start": 1693703732964,
+              "focus": false,
+              "end": 1693704209562
+            }
+          },
+          {
+            "key": 1695664958749,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 3 - Compras",
+              "id": 1693703750616,
+              "level": "default",
+              "done": false,
+              "start": 1693703750616,
+              "focus": false,
+              "end": 1693704210692
+            }
+          },
+          {
+            "key": 1695664958750,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 4 - Ventas",
+              "id": 1693703798351,
+              "level": "default",
+              "done": false,
+              "start": 1693703798351,
+              "focus": false,
+              "end": 1693704212557
+            }
+          },
+          {
+            "key": 1695664958751,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 5 - Reportes",
+              "id": 1693703816269,
+              "level": "default",
+              "done": false,
+              "start": 1693703816269,
+              "focus": false,
+              "end": 1693704214751
+            }
+          },
+          {
+            "key": 1695664958752,
+            "children": [],
+            "todo": {
+              "content": "Revisión de excel de carga masiva",
+              "id": 1693704028802,
+              "level": "default",
+              "done": false,
+              "start": 1693704028802
+            }
+          },
+          {
+            "key": 1695664958753,
+            "children": [],
+            "todo": {
+              "content": "Carga Masiva de productos",
+              "id": 1693704082969,
+              "level": "default",
+              "done": false,
+              "start": 1693704082969
+            }
+          },
+          {
+            "key": 1695664958754,
+            "children": [],
+            "todo": {
+              "content": "Cargar Base de datos productiva en máquina cliente",
+              "id": 1693704099882,
+              "level": "default",
+              "done": false,
+              "start": 1693704099882,
+              "focus": false,
+              "end": 1693704222863
+            }
+          },
+          {
+            "key": 1695664958755,
+            "children": [],
+            "todo": {
+              "content": "Documentos de Aceptación de Cierre de Requerimientos DACR",
+              "id": 1693704137998,
+              "level": "default",
+              "done": false,
+              "start": 1693704137998
+            }
+          },
+          {
+            "key": 1695664958756,
+            "children": [],
+            "todo": {
+              "content": "Salida en vivo",
+              "id": 1693704176311,
+              "level": "default",
+              "done": false,
+              "start": 1693704176311
+            }
+          }
+        ],
         "todo": {
-          "content": "CSPQ-1137 Error al Imprimir o exportar nota de crédito por método de pago",
-          "id": 1695307006338,
+          "content": "Implementación DIPLAS",
+          "id": 1693493973426,
           "level": "default",
           "done": false,
-          "start": 1695307006338,
-          "date": "1695276000,1695362399",
+          "start": 1693493973426,
+          "focus": false,
           "tags": [
-            "1693422043358"
-          ]
+            "1693422166740"
+          ],
+          "date": null
+        }
+      },
+      {
+        "key": 1695664795525,
+        "children": [
+          {
+            "key": 1695664795526,
+            "children": [],
+            "todo": {
+              "content": "Contacto con el cliente para runión inicial",
+              "id": 1694615831957,
+              "level": "default",
+              "done": false,
+              "start": 1694615831957,
+              "date": null
+            }
+          },
+          {
+            "key": 1695664795527,
+            "children": [],
+            "todo": {
+              "content": "Reunión inicial",
+              "id": 1693703674315,
+              "level": "default",
+              "done": false,
+              "start": 1693703674315,
+              "focus": false,
+              "end": 1693705430412,
+              "date": null
+            }
+          },
+          {
+            "key": 1695664795528,
+            "children": [],
+            "todo": {
+              "content": "Kick Off",
+              "id": 1693703919590,
+              "level": "default",
+              "done": false,
+              "start": 1693703919590,
+              "focus": false,
+              "end": 1693705431394,
+              "date": null
+            }
+          },
+          {
+            "key": 1695664795529,
+            "children": [],
+            "todo": {
+              "content": "Compartir carpeta de implementación",
+              "id": 1694615957635,
+              "level": "default",
+              "done": false,
+              "start": 1694615957635,
+              "date": null
+            }
+          },
+          {
+            "key": 1695664795530,
+            "children": [],
+            "todo": {
+              "content": "Contratos y Conexiones",
+              "id": 1693703963390,
+              "level": "default",
+              "done": false,
+              "start": 1693703963390,
+              "focus": false,
+              "end": 1693704197102
+            }
+          },
+          {
+            "key": 1695664795531,
+            "children": [],
+            "todo": {
+              "content": "Liberar Instalador",
+              "id": 1693703843592,
+              "level": "default",
+              "done": false,
+              "start": 1693703843592,
+              "tags": [
+                "1693422138337"
+              ],
+              "focus": false,
+              "end": 1693704199932
+            }
+          },
+          {
+            "key": 1695664795532,
+            "children": [],
+            "todo": {
+              "content": "Instalaciones CS POS",
+              "id": 1693704003041,
+              "level": "default",
+              "done": false,
+              "start": 1693704003041,
+              "focus": false,
+              "end": 1693704204440
+            }
+          },
+          {
+            "key": 1695664795533,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 0 - Llenado de excel carga masiva",
+              "id": 1693703882789,
+              "level": "default",
+              "done": false,
+              "start": 1693703882789,
+              "focus": false,
+              "end": 1693704207618
+            }
+          },
+          {
+            "key": 1695664795534,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 1 - Socios y productos",
+              "id": 1693703695178,
+              "level": "default",
+              "done": false,
+              "start": 1693703695178,
+              "focus": false,
+              "end": 1693704208687
+            }
+          },
+          {
+            "key": 1695664795535,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 2 - Configuraciones",
+              "id": 1693703732964,
+              "level": "default",
+              "done": false,
+              "start": 1693703732964,
+              "focus": false,
+              "end": 1693704209562
+            }
+          },
+          {
+            "key": 1695664795536,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 3 - Compras",
+              "id": 1693703750616,
+              "level": "default",
+              "done": false,
+              "start": 1693703750616,
+              "focus": false,
+              "end": 1693704210692
+            }
+          },
+          {
+            "key": 1695664795537,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 4 - Ventas",
+              "id": 1693703798351,
+              "level": "default",
+              "done": false,
+              "start": 1693703798351,
+              "focus": false,
+              "end": 1693704212557
+            }
+          },
+          {
+            "key": 1695664795538,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 5 - Reportes",
+              "id": 1693703816269,
+              "level": "default",
+              "done": false,
+              "start": 1693703816269,
+              "focus": false,
+              "end": 1693704214751
+            }
+          },
+          {
+            "key": 1695664795539,
+            "children": [],
+            "todo": {
+              "content": "Revisión de excel de carga masiva",
+              "id": 1693704028802,
+              "level": "default",
+              "done": false,
+              "start": 1693704028802
+            }
+          },
+          {
+            "key": 1695664795540,
+            "children": [],
+            "todo": {
+              "content": "Carga Masiva de productos",
+              "id": 1693704082969,
+              "level": "default",
+              "done": false,
+              "start": 1693704082969
+            }
+          },
+          {
+            "key": 1695664795541,
+            "children": [],
+            "todo": {
+              "content": "Cargar Base de datos productiva en máquina cliente",
+              "id": 1693704099882,
+              "level": "default",
+              "done": false,
+              "start": 1693704099882,
+              "focus": false,
+              "end": 1693704222863
+            }
+          },
+          {
+            "key": 1695664795542,
+            "children": [],
+            "todo": {
+              "content": "Documentos de Aceptación de Cierre de Requerimientos DACR",
+              "id": 1693704137998,
+              "level": "default",
+              "done": false,
+              "start": 1693704137998
+            }
+          },
+          {
+            "key": 1695664795543,
+            "children": [],
+            "todo": {
+              "content": "Salida en vivo",
+              "id": 1693704176311,
+              "level": "default",
+              "done": false,
+              "start": 1693704176311
+            }
+          }
+        ],
+        "todo": {
+          "content": "Implementación Pizzería El Artesano",
+          "id": 1693493973426,
+          "level": "default",
+          "done": false,
+          "start": 1693493973426,
+          "focus": false,
+          "tags": [
+            "1693422166740"
+          ],
+          "date": null
         }
       },
       {
         "key": 1693922096638,
         "children": [
-          {
-            "key": 1694615464977,
-            "children": [],
-            "todo": {
-              "content": "CSPQ-1126 Error al intentar guardar un ramo de negocios HQ y POS",
-              "id": 1694615464977,
-              "level": "warning",
-              "done": false,
-              "start": 1694615464977,
-              "date": "1694584800,1694671199",
-              "tags": [
-                "1693422043358"
-              ]
-            }
-          },
-          {
-            "key": 1695046581186,
-            "children": [],
-            "todo": {
-              "content": "CSPQ-699 Sistema: Motivos de transacción deben cargar en modo lectura cuando se va modificar uno para validar permisos",
-              "id": 1695046581186,
-              "level": "warning",
-              "done": false,
-              "start": 1695046581186,
-              "tags": [
-                "1693422043358"
-              ],
-              "date": "1695016800,1695103199"
-            }
-          },
-          {
-            "key": 1695046537529,
-            "children": [],
-            "todo": {
-              "content": "CSPQ-877 Fidelización: que todos los textbox tengan validación que solo números.",
-              "id": 1695046537529,
-              "level": "warning",
-              "done": false,
-              "start": 1695046537529,
-              "date": "1695016800,1695103199",
-              "tags": [
-                "1693422043358"
-              ]
-            }
-          },
-          {
-            "key": 1695133936923,
-            "children": [],
-            "todo": {
-              "content": "CSPQ-704 Campos de usuario: debe cargar en modo lectura y validar permisos",
-              "id": 1695133936923,
-              "level": "warning",
-              "done": false,
-              "start": 1695133936924,
-              "tags": [
-                "1693422043358"
-              ],
-              "date": "1695103200,1695189599"
-            }
-          },
-          {
-            "key": 1695045803881,
-            "children": [],
-            "todo": {
-              "content": "HQ Sesiones de ventas formato de Ticket ####",
-              "id": 1695045803881,
-              "level": "default",
-              "done": false,
-              "start": 1695045803881
-            }
-          },
           {
             "key": 1693421886515,
             "children": [],
@@ -2189,6 +1742,91 @@
             }
           },
           {
+            "key": 1694615464977,
+            "children": [],
+            "todo": {
+              "content": "CSPQ-1126 Error al intentar guardar un ramo de negocios HQ y POS",
+              "id": 1694615464977,
+              "level": "warning",
+              "done": true,
+              "start": 1694615464977,
+              "date": "1694584800,1694671199",
+              "tags": [
+                "1693422043358"
+              ],
+              "focus": false,
+              "end": 1695332751684
+            }
+          },
+          {
+            "key": 1695046581186,
+            "children": [],
+            "todo": {
+              "content": "CSPQ-699 Sistema: Motivos de transacción deben cargar en modo lectura cuando se va modificar uno para validar permisos (Observación)",
+              "id": 1695046581186,
+              "level": "warning",
+              "done": true,
+              "start": 1695046581186,
+              "tags": [
+                "1693422043358"
+              ],
+              "date": "1695016800,1695103199",
+              "focus": false,
+              "end": 1696022178368
+            }
+          },
+          {
+            "key": 1695046537529,
+            "children": [],
+            "todo": {
+              "content": "CSPQ-877 Fidelización: que todos los textbox tengan validación que solo números.",
+              "id": 1695046537529,
+              "level": "warning",
+              "done": true,
+              "start": 1695046537529,
+              "date": "1695016800,1695103199",
+              "tags": [
+                "1693422043358"
+              ],
+              "focus": false,
+              "end": 1695324309969
+            }
+          },
+          {
+            "key": 1695134041013,
+            "children": [],
+            "todo": {
+              "content": "CSPQ-712 Condiciones: debe abrir en modo solo lectura (Observación)",
+              "id": 1695134041013,
+              "level": "warning",
+              "done": true,
+              "start": 1695134041013,
+              "tags": [
+                "1693422043358"
+              ],
+              "date": "1695103200,1695189599",
+              "focus": false,
+              "end": 1696022180848
+            }
+          },
+          {
+            "key": 1695133936923,
+            "children": [],
+            "todo": {
+              "content": "CSPQ-704 Campos de usuario: debe cargar en modo lectura y validar permisos",
+              "id": 1695133936923,
+              "level": "warning",
+              "done": true,
+              "start": 1695133936924,
+              "tags": [
+                "1693422043358"
+              ],
+              "date": "1695103200,1695189599",
+              "focus": false,
+              "end": 1695324052285
+            }
+          },
+          {
             "key": 1693840524154,
             "children": [
               {
@@ -2246,6 +1884,82 @@
               "focus": false,
               "end": 1693948489712
             }
+          },
+          {
+            "key": 1695307006338,
+            "children": [],
+            "todo": {
+              "content": "CSPQ-1137 Error al Imprimir o exportar nota de crédito por método de pago",
+              "id": 1695307006338,
+              "level": "default",
+              "done": true,
+              "start": 1695307006338,
+              "date": "1695276000,1695362399",
+              "tags": [
+                "1693422043358"
+              ],
+              "focus": false,
+              "end": 1695391625072
+            }
+          },
+          {
+            "key": 1695651811866,
+            "children": [],
+            "todo": {
+              "content": "CSPQ-1138 Resumen de Nota de crédito por cliente total incorrecto al imprimir o exportar",
+              "id": 1695651811866,
+              "level": "default",
+              "done": true,
+              "start": 1695651811867,
+              "date": "1695621600,1695707999",
+              "tags": [
+                "1693422043358"
+              ],
+              "focus": false,
+              "end": 1696022186332
+            }
+          },
+          {
+            "key": 1695392224983,
+            "children": [],
+            "todo": {
+              "content": "CSPQ-1136 Resumen de notas de crédito totales incorrectos",
+              "id": 1695392224983,
+              "level": "default",
+              "done": true,
+              "start": 1695392224983,
+              "focus": false,
+              "end": 1696022190230
+            }
+          },
+          {
+            "key": 1695911416708,
+            "children": [],
+            "todo": {
+              "content": "CSPQ-1139 Resumen de nota de crédito por producto total incorrecto",
+              "id": 1695911416708,
+              "level": "default",
+              "done": true,
+              "start": 1695911416708,
+              "tags": [
+                "1693422043358"
+              ],
+              "focus": false,
+              "end": 1696022188576
+            }
+          },
+          {
+            "key": 1695045803881,
+            "children": [],
+            "todo": {
+              "content": "HQ Sesiones de ventas formato de Ticket ####",
+              "id": 1695045803881,
+              "level": "default",
+              "done": true,
+              "start": 1695045803881,
+              "focus": false,
+              "end": 1695309390693
+            }
           }
         ],
         "todo": {
@@ -2262,6 +1976,62 @@
       {
         "key": 1694008831769,
         "children": [
+          {
+            "key": 1694189487366,
+            "children": [],
+            "todo": {
+              "content": "Probar que retiros de efectivo suban a HQ",
+              "id": 1694189487366,
+              "level": "default",
+              "done": false,
+              "start": 1694189487366
+            }
+          },
+          {
+            "key": 1695045659242,
+            "children": [
+              {
+                "key": 1695168913228,
+                "children": [],
+                "todo": {
+                  "content": "HQ",
+                  "id": 1695168913228,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695168913228
+                }
+              },
+              {
+                "key": 1695168921159,
+                "children": [],
+                "todo": {
+                  "content": "SPS",
+                  "id": 1695168921159,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695168921159
+                }
+              },
+              {
+                "key": 1695168928317,
+                "children": [],
+                "todo": {
+                  "content": "Progreso",
+                  "id": 1695168928317,
+                  "level": "default",
+                  "done": false,
+                  "start": 1695168928317
+                }
+              }
+            ],
+            "todo": {
+              "content": "Actualizar Gala Bisutería",
+              "id": 1695045659242,
+              "level": "default",
+              "done": false,
+              "start": 1695045659242
+            }
+          },
           {
             "key": 1693440129226,
             "children": [
@@ -2415,113 +2185,146 @@
               "content": "Actualizar Globla Brigade",
               "id": 1693440129226,
               "level": "danger",
-              "done": false,
+              "done": true,
               "start": 1693440129226,
               "date": "1693807200,1693893599",
               "tags": [
                 "1693422138337",
                 "1693422166740"
-              ]
+              ],
+              "focus": false,
+              "end": 1696016629078
+            }
+          },
+          {
+            "key": 1693836044973,
+            "children": [
+              {
+                "key": 1693836078392,
+                "children": [
+                  {
+                    "key": 1693872794417,
+                    "children": [],
+                    "todo": {
+                      "content": "Envio de correos",
+                      "id": 1693872794417,
+                      "level": "default",
+                      "done": false,
+                      "start": 1693872794417
+                    }
+                  },
+                  {
+                    "key": 1693872807423,
+                    "children": [],
+                    "todo": {
+                      "content": "Pedidos Pmobile",
+                      "id": 1693872807423,
+                      "level": "default",
+                      "done": false,
+                      "start": 1693872807423
+                    }
+                  },
+                  {
+                    "key": 1693872822890,
+                    "children": [],
+                    "todo": {
+                      "content": "Pedios Market",
+                      "id": 1693872822890,
+                      "level": "default",
+                      "done": false,
+                      "start": 1693872822890
+                    }
+                  }
+                ],
+                "todo": {
+                  "content": "Grabar video demostrativo",
+                  "id": 1693836078392,
+                  "level": "default",
+                  "done": true,
+                  "start": 1693836078392,
+                  "date": "1693807200,1693893599",
+                  "focus": false,
+                  "end": 1694044430331
+                }
+              }
+            ],
+            "todo": {
+              "content": "Webinar",
+              "id": 1693836044973,
+              "level": "warning",
+              "done": true,
+              "start": 1693836044973,
+              "date": "1693807200,1693893599",
+              "tags": [
+                "1693422138337",
+                "1693422166740"
+              ],
+              "focus": false,
+              "end": 1694615570617
             }
           },
           {
             "key": 1694527633902,
             "children": [],
             "todo": {
-              "content": "Grabar videos 12/25",
+              "content": "Grabar videos 25/25",
               "id": 1694527633902,
               "level": "warning",
-              "done": false,
-              "start": 1694527633902
+              "done": true,
+              "start": 1694527633902,
+              "focus": false,
+              "end": 1696016640565
             }
           },
           {
-            "key": 1694189487366,
+            "key": 1694008867556,
             "children": [],
             "todo": {
-              "content": "Probar que retiros de efectivo suban a HQ",
-              "id": 1694189487366,
+              "content": "Revisar los scripts de HQ-SDX para ver si falta alguno por que no suben los cierres y retiros de efectivo",
+              "id": 1694008867556,
               "level": "default",
-              "done": false,
-              "start": 1694189487366
+              "done": true,
+              "start": 1694008867556,
+              "date": "1693980000,1694066399",
+              "focus": false,
+              "end": 1694475785652
             }
           },
           {
-            "key": 1695045659242,
+            "key": 1694189243140,
             "children": [
               {
-                "key": 1695168913228,
+                "key": 1694189263861,
                 "children": [],
                 "todo": {
-                  "content": "HQ",
-                  "id": 1695168913228,
+                  "content": "Eder Antonio Villeda 98905429",
+                  "id": 1694189263861,
                   "level": "default",
                   "done": false,
-                  "start": 1695168913228
+                  "start": 1694189263861
                 }
               },
               {
-                "key": 1695168921159,
+                "key": 1694189313329,
                 "children": [],
                 "todo": {
-                  "content": "SPS",
-                  "id": 1695168921159,
+                  "content": "José Banegas +504 3264‑6944‬",
+                  "id": 1694189313329,
                   "level": "default",
                   "done": false,
-                  "start": 1695168921159
-                }
-              },
-              {
-                "key": 1695168928317,
-                "children": [],
-                "todo": {
-                  "content": "Progreso",
-                  "id": 1695168928317,
-                  "level": "default",
-                  "done": false,
-                  "start": 1695168928317
+                  "start": 1694189313329
                 }
               }
             ],
             "todo": {
-              "content": "Actualizar Gala Bisutería",
-              "id": 1695045659242,
+              "content": "Contactar a nuevos clientes para agendar Demo",
+              "id": 1694189243140,
               "level": "default",
-              "done": false,
-              "start": 1695045659242
-            }
-          },
-          {
-            "key": 1695045707872,
-            "children": [],
-            "todo": {
-              "content": "Capacitación 1 Tienda 1301",
-              "id": 1695045707872,
-              "level": "default",
-              "done": false,
-              "start": 1695045707872
-            }
-          },
-          {
-            "key": 1695045781589,
-            "children": [],
-            "todo": {
-              "content": "Cheke HN",
-              "id": 1695045781589,
-              "level": "default",
-              "done": false,
-              "start": 1695045781589
-            }
-          },
-          {
-            "key": 1695045793842,
-            "children": [],
-            "todo": {
-              "content": "La Marisquería",
-              "id": 1695045793842,
-              "level": "default",
-              "done": false,
-              "start": 1695045793842
+              "done": true,
+              "start": 1694189243140,
+              "date": "1694152800,1694239199",
+              "focus": false,
+              "end": 1694441077967
             }
           },
           {
@@ -2620,126 +2423,36 @@
               "content": "Pruebas Intengración HQ",
               "id": 1695133165669,
               "level": "default",
-              "done": false,
-              "start": 1695133165669
-            }
-          },
-          {
-            "key": 1693836044973,
-            "children": [
-              {
-                "key": 1693836078392,
-                "children": [
-                  {
-                    "key": 1693872794417,
-                    "children": [],
-                    "todo": {
-                      "content": "Envio de correos",
-                      "id": 1693872794417,
-                      "level": "default",
-                      "done": false,
-                      "start": 1693872794417
-                    }
-                  },
-                  {
-                    "key": 1693872807423,
-                    "children": [],
-                    "todo": {
-                      "content": "Pedidos Pmobile",
-                      "id": 1693872807423,
-                      "level": "default",
-                      "done": false,
-                      "start": 1693872807423
-                    }
-                  },
-                  {
-                    "key": 1693872822890,
-                    "children": [],
-                    "todo": {
-                      "content": "Pedios Market",
-                      "id": 1693872822890,
-                      "level": "default",
-                      "done": false,
-                      "start": 1693872822890
-                    }
-                  }
-                ],
-                "todo": {
-                  "content": "Grabar video demostrativo",
-                  "id": 1693836078392,
-                  "level": "default",
-                  "done": true,
-                  "start": 1693836078392,
-                  "date": "1693807200,1693893599",
-                  "focus": false,
-                  "end": 1694044430331
-                }
-              }
-            ],
-            "todo": {
-              "content": "Webinar",
-              "id": 1693836044973,
-              "level": "warning",
               "done": true,
-              "start": 1693836044973,
-              "date": "1693807200,1693893599",
-              "tags": [
-                "1693422138337",
-                "1693422166740"
-              ],
+              "start": 1695133165669,
               "focus": false,
-              "end": 1694615570617
+              "end": 1696016655232
             }
           },
           {
-            "key": 1694008867556,
+            "key": 1695045781589,
             "children": [],
             "todo": {
-              "content": "Revisar los scripts de HQ-SDX para ver si falta alguno por que no suben los cierres y retiros de efectivo",
-              "id": 1694008867556,
+              "content": "Cheke HN",
+              "id": 1695045781589,
               "level": "default",
               "done": true,
-              "start": 1694008867556,
-              "date": "1693980000,1694066399",
+              "start": 1695045781589,
               "focus": false,
-              "end": 1694475785652
+              "end": 1696016643380
             }
           },
           {
-            "key": 1694189243140,
-            "children": [
-              {
-                "key": 1694189263861,
-                "children": [],
-                "todo": {
-                  "content": "Eder Antonio Villeda 98905429",
-                  "id": 1694189263861,
-                  "level": "default",
-                  "done": false,
-                  "start": 1694189263861
-                }
-              },
-              {
-                "key": 1694189313329,
-                "children": [],
-                "todo": {
-                  "content": "José Banegas +504 3264‑6944‬",
-                  "id": 1694189313329,
-                  "level": "default",
-                  "done": false,
-                  "start": 1694189313329
-                }
-              }
-            ],
+            "key": 1695045793842,
+            "children": [],
             "todo": {
-              "content": "Contactar a nuevos clientes para agendar Demo",
-              "id": 1694189243140,
+              "content": "La Marisquería",
+              "id": 1695045793842,
               "level": "default",
               "done": true,
-              "start": 1694189243140,
-              "date": "1694152800,1694239199",
+              "start": 1695045793842,
               "focus": false,
-              "end": 1694441077967
+              "end": 1695391650733
             }
           },
           {
@@ -3000,14 +2713,1222 @@
           "start": 1694008831769,
           "tags": [
             "1693422166740"
-          ]
+          ],
+          "focus": false,
+          "end": 1695651842384
+        }
+      },
+      {
+        "key": 1694537954294,
+        "children": [
+          {
+            "key": 1694537987203,
+            "children": [],
+            "todo": {
+              "content": "HQ: Agregar al socio la tienda por defecto",
+              "id": 1694537987203,
+              "level": "default",
+              "done": false,
+              "start": 1694537987203
+            }
+          },
+          {
+            "key": 1694538557184,
+            "children": [],
+            "todo": {
+              "content": "POS: Agregar al socio la tienda por defecto",
+              "id": 1694538557184,
+              "level": "default",
+              "done": false,
+              "start": 1694538557184
+            }
+          },
+          {
+            "key": 1694538592973,
+            "children": [],
+            "todo": {
+              "content": "Scheduler: Agrear la tienda po defecto donde sea que haya nacido el Socio",
+              "id": 1694538592973,
+              "level": "default",
+              "done": false,
+              "start": 1694538592973
+            }
+          },
+          {
+            "key": 1694538762039,
+            "children": [],
+            "todo": {
+              "content": "Crear el Script de la nueva colunma para POS",
+              "id": 1694538762039,
+              "level": "default",
+              "done": true,
+              "start": 1694538762039,
+              "focus": false,
+              "end": 1695308770937
+            }
+          },
+          {
+            "key": 1694538736523,
+            "children": [],
+            "todo": {
+              "content": "Crear el Script de la nueva colunma para HQ",
+              "id": 1694538736523,
+              "level": "default",
+              "done": true,
+              "start": 1694538736523,
+              "focus": false,
+              "end": 1695308768283
+            }
+          }
+        ],
+        "todo": {
+          "content": "A socios de negocio agregar la tienda por defecto",
+          "id": 1694537954294,
+          "level": "danger",
+          "done": true,
+          "start": 1694537954294,
+          "focus": false,
+          "end": 1696016678290
+        }
+      },
+      {
+        "key": 1693705261511,
+        "children": [
+          {
+            "key": 1693705261527,
+            "children": [],
+            "todo": {
+              "content": "Salida en vivo",
+              "id": 1693704176311,
+              "level": "default",
+              "done": true,
+              "start": 1693704176311,
+              "date": "1693807200,1693893599",
+              "focus": false,
+              "end": 1695656012552
+            }
+          },
+          {
+            "key": 1693705261526,
+            "children": [],
+            "todo": {
+              "content": "Documentos de Aceptación de Cierre de Requerimientos DACR",
+              "id": 1693704137998,
+              "level": "default",
+              "done": true,
+              "start": 1693704137998,
+              "date": "1693807200,1693893599",
+              "focus": false,
+              "end": 1695656011380
+            }
+          },
+          {
+            "key": 1693705261524,
+            "children": [],
+            "todo": {
+              "content": "Carga Masiva de productos  (No la utilizaron)",
+              "id": 1693704082969,
+              "level": "default",
+              "done": true,
+              "start": 1693704082969,
+              "focus": false,
+              "end": 1695308725682
+            }
+          },
+          {
+            "key": 1693705261523,
+            "children": [],
+            "todo": {
+              "content": "Revisión de excel de carga masiva (No la utilizaron)",
+              "id": 1693704028802,
+              "level": "default",
+              "done": true,
+              "start": 1693704028802,
+              "focus": false,
+              "end": 1695308723929
+            }
+          },
+          {
+            "key": 1693705261512,
+            "children": [],
+            "todo": {
+              "content": "Reunión inicial",
+              "id": 1693703674315,
+              "level": "default",
+              "done": true,
+              "start": 1693703674315,
+              "focus": false,
+              "end": 1693704187463
+            }
+          },
+          {
+            "key": 1693705261513,
+            "children": [],
+            "todo": {
+              "content": "Kick Off",
+              "id": 1693703919590,
+              "level": "default",
+              "done": true,
+              "start": 1693703919590,
+              "focus": false,
+              "end": 1693704194208
+            }
+          },
+          {
+            "key": 1693705261514,
+            "children": [],
+            "todo": {
+              "content": "Contratos y Conexiones",
+              "id": 1693703963390,
+              "level": "default",
+              "done": true,
+              "start": 1693703963390,
+              "focus": false,
+              "end": 1693704197102
+            }
+          },
+          {
+            "key": 1693705261515,
+            "children": [],
+            "todo": {
+              "content": "Liberar Instalador",
+              "id": 1693703843592,
+              "level": "default",
+              "done": true,
+              "start": 1693703843592,
+              "tags": [
+                "1693422138337"
+              ],
+              "focus": false,
+              "end": 1693704199932
+            }
+          },
+          {
+            "key": 1693705261516,
+            "children": [],
+            "todo": {
+              "content": "Instalaciones CS POS",
+              "id": 1693704003041,
+              "level": "default",
+              "done": true,
+              "start": 1693704003041,
+              "focus": false,
+              "end": 1693704204440
+            }
+          },
+          {
+            "key": 1693705261517,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 0 - Llenado de excel carga masiva",
+              "id": 1693703882789,
+              "level": "default",
+              "done": true,
+              "start": 1693703882789,
+              "focus": false,
+              "end": 1693704207618
+            }
+          },
+          {
+            "key": 1693705261518,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 1 - Socios y productos",
+              "id": 1693703695178,
+              "level": "default",
+              "done": true,
+              "start": 1693703695178,
+              "focus": false,
+              "end": 1693704208687
+            }
+          },
+          {
+            "key": 1693705261519,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 2 - Configuraciones",
+              "id": 1693703732964,
+              "level": "default",
+              "done": true,
+              "start": 1693703732964,
+              "focus": false,
+              "end": 1693704209562
+            }
+          },
+          {
+            "key": 1693705261520,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 3 - Compras",
+              "id": 1693703750616,
+              "level": "default",
+              "done": true,
+              "start": 1693703750616,
+              "focus": false,
+              "end": 1693704210692
+            }
+          },
+          {
+            "key": 1693705261521,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 4 - Ventas",
+              "id": 1693703798351,
+              "level": "default",
+              "done": true,
+              "start": 1693703798351,
+              "focus": false,
+              "end": 1693704212557
+            }
+          },
+          {
+            "key": 1693705261522,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 5 - Reportes",
+              "id": 1693703816269,
+              "level": "default",
+              "done": true,
+              "start": 1693703816269,
+              "focus": false,
+              "end": 1693704214751
+            }
+          },
+          {
+            "key": 1693705261525,
+            "children": [],
+            "todo": {
+              "content": "Cargar Base de datos productiva en máquina cliente",
+              "id": 1693704099882,
+              "level": "default",
+              "done": true,
+              "start": 1693704099882,
+              "focus": false,
+              "end": 1693704222863
+            }
+          }
+        ],
+        "todo": {
+          "content": "Implementación Ckeke HN",
+          "id": 1693493973426,
+          "level": "warning",
+          "done": true,
+          "start": 1693493973426,
+          "focus": false,
+          "tags": [
+            "1693422166740"
+          ],
+          "date": "1692165600,1693893599",
+          "end": 1695656015834
+        }
+      },
+      {
+        "key": 1693705155124,
+        "children": [
+          {
+            "key": 1693705155125,
+            "children": [],
+            "todo": {
+              "content": "Reunión inicial",
+              "id": 1693703674315,
+              "level": "default",
+              "done": true,
+              "start": 1693703674315,
+              "focus": false,
+              "end": 1693705075230,
+              "date": "1692856800,1692943199"
+            }
+          },
+          {
+            "key": 1693705155126,
+            "children": [],
+            "todo": {
+              "content": "Kick Off",
+              "id": 1693703919590,
+              "level": "default",
+              "done": true,
+              "start": 1693703919590,
+              "focus": false,
+              "end": 1693705076314,
+              "date": "1692856800,1692943199"
+            }
+          },
+          {
+            "key": 1693705155130,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 0 - Llenado de excel carga masiva",
+              "id": 1693703882789,
+              "level": "default",
+              "done": true,
+              "start": 1693703882789,
+              "focus": false,
+              "end": 1693705071179,
+              "date": "1692856800,1692943199"
+            }
+          },
+          {
+            "key": 1693705155131,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 1 - Socios y productos",
+              "id": 1693703695178,
+              "level": "default",
+              "done": true,
+              "start": 1693703695178,
+              "focus": false,
+              "end": 1695169038309,
+              "date": "1693807200,1693893599"
+            }
+          },
+          {
+            "key": 1693705155129,
+            "children": [],
+            "todo": {
+              "content": "Instalaciones CS POS",
+              "id": 1693704003041,
+              "level": "default",
+              "done": true,
+              "start": 1693704003041,
+              "focus": false,
+              "end": 1693864156249,
+              "date": "1693807200,1693893599"
+            }
+          },
+          {
+            "key": 1693705155127,
+            "children": [],
+            "todo": {
+              "content": "Contratos y Conexiones",
+              "id": 1693703963390,
+              "level": "default",
+              "done": true,
+              "start": 1693703963390,
+              "focus": false,
+              "end": 1693864153657,
+              "date": "1693807200,1693893599"
+            }
+          },
+          {
+            "key": 1693705155128,
+            "children": [],
+            "todo": {
+              "content": "Liberar Instalador",
+              "id": 1693703843592,
+              "level": "default",
+              "done": true,
+              "start": 1693703843592,
+              "tags": [
+                "1693422138337"
+              ],
+              "focus": false,
+              "end": 1693849483514,
+              "date": "1693807200,1693893599"
+            }
+          },
+          {
+            "key": 1693705155132,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 2 - Configuraciones",
+              "id": 1693703732964,
+              "level": "default",
+              "done": true,
+              "start": 1693703732964,
+              "focus": false,
+              "end": 1695169035912,
+              "date": "1693893600,1693979999"
+            }
+          },
+          {
+            "key": 1693705155133,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 3 - Compras",
+              "id": 1693703750616,
+              "level": "default",
+              "done": true,
+              "start": 1693703750616,
+              "focus": false,
+              "end": 1695169039919,
+              "date": "1693980000,1694066399"
+            }
+          },
+          {
+            "key": 1693705155134,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 4 - Ventas",
+              "id": 1693703798351,
+              "level": "default",
+              "done": true,
+              "start": 1693703798351,
+              "focus": false,
+              "end": 1695169041521,
+              "date": "1694066400,1694152799"
+            }
+          },
+          {
+            "key": 1693705155139,
+            "children": [],
+            "todo": {
+              "content": "Documentos de Aceptación de Cierre de Requerimientos DACR",
+              "id": 1693704137998,
+              "level": "default",
+              "done": true,
+              "start": 1693704137998,
+              "date": "1694152800,1694239199",
+              "focus": false,
+              "end": 1696016561521
+            }
+          },
+          {
+            "key": 1693705155135,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 5 - Reportes",
+              "id": 1693703816269,
+              "level": "default",
+              "done": true,
+              "start": 1693703816269,
+              "focus": false,
+              "end": 1695656022678,
+              "date": "1694152800,1694239199"
+            }
+          },
+          {
+            "key": 1693705155136,
+            "children": [],
+            "todo": {
+              "content": "Revisión de excel de carga masiva",
+              "id": 1693704028802,
+              "level": "default",
+              "done": true,
+              "start": 1693704028802,
+              "date": "1694152800,1694239199",
+              "focus": false,
+              "end": 1695169081785
+            }
+          },
+          {
+            "key": 1693705155137,
+            "children": [],
+            "todo": {
+              "content": "Carga Masiva de productos",
+              "id": 1693704082969,
+              "level": "default",
+              "done": true,
+              "start": 1693704082969,
+              "date": "1694152800,1694239199",
+              "focus": false,
+              "end": 1695169079130
+            }
+          },
+          {
+            "key": 1693705155138,
+            "children": [],
+            "todo": {
+              "content": "Cargar Base de datos productiva en máquina cliente",
+              "id": 1693704099882,
+              "level": "default",
+              "done": true,
+              "start": 1693704099882,
+              "focus": false,
+              "end": 1695169074269,
+              "date": "1694152800,1694239199"
+            }
+          },
+          {
+            "key": 1693705155140,
+            "children": [],
+            "todo": {
+              "content": "Salida en vivo",
+              "id": 1693704176311,
+              "level": "default",
+              "done": true,
+              "start": 1693704176311,
+              "date": "1697004000,1697090399",
+              "focus": false,
+              "end": 1696016563798
+            }
+          },
+          {
+            "key": 1695169051823,
+            "children": [],
+            "todo": {
+              "content": "Recapacitaciones 4/4",
+              "id": 1695169051823,
+              "level": "default",
+              "done": true,
+              "start": 1695169051823,
+              "focus": false,
+              "end": 1695656032106
+            }
+          }
+        ],
+        "todo": {
+          "content": "Implementación Inversiones Fumiaires",
+          "id": 1693493973426,
+          "level": "warning",
+          "done": true,
+          "start": 1693493973426,
+          "focus": false,
+          "tags": [
+            "1693422166740"
+          ],
+          "date": "1692856800,1694498399",
+          "end": 1696016566671
+        }
+      },
+      {
+        "key": 1693493973426,
+        "children": [
+          {
+            "key": 1693704137998,
+            "children": [],
+            "todo": {
+              "content": "Documentos de Aceptación de Cierre de Requerimientos DACR",
+              "id": 1693704137998,
+              "level": "default",
+              "done": true,
+              "start": 1693704137998,
+              "focus": false,
+              "end": 1695656056965
+            }
+          },
+          {
+            "key": 1693704176311,
+            "children": [],
+            "todo": {
+              "content": "Salida en vivo",
+              "id": 1693704176311,
+              "level": "default",
+              "done": true,
+              "start": 1693704176311,
+              "focus": false,
+              "end": 1695391428778
+            }
+          },
+          {
+            "key": 1693704082969,
+            "children": [],
+            "todo": {
+              "content": "Carga Masiva de productos",
+              "id": 1693704082969,
+              "level": "default",
+              "done": true,
+              "start": 1693704082969,
+              "focus": false,
+              "end": 1695308546662
+            }
+          },
+          {
+            "key": 1693704099882,
+            "children": [],
+            "todo": {
+              "content": "Cargar Base de datos productiva en máquina cliente",
+              "id": 1693704099882,
+              "level": "default",
+              "done": true,
+              "start": 1693704099882,
+              "focus": false,
+              "end": 1695308543358
+            }
+          },
+          {
+            "key": 1693704028802,
+            "children": [],
+            "todo": {
+              "content": "Revisión de excel de carga masiva",
+              "id": 1693704028802,
+              "level": "default",
+              "done": true,
+              "start": 1693704028802,
+              "focus": false,
+              "end": 1695308131940
+            }
+          },
+          {
+            "key": 1693703816269,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 5 - Reportes",
+              "id": 1693703816269,
+              "level": "default",
+              "done": true,
+              "start": 1693703816269,
+              "focus": false,
+              "end": 1695308127990
+            }
+          },
+          {
+            "key": 1693703798351,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 4 - Ventas",
+              "id": 1693703798351,
+              "level": "default",
+              "done": true,
+              "start": 1693703798351,
+              "focus": false,
+              "end": 1695308126272
+            }
+          },
+          {
+            "key": 1693703750616,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 3 - Compras",
+              "id": 1693703750616,
+              "level": "default",
+              "done": true,
+              "start": 1693703750616,
+              "focus": false,
+              "end": 1693928293812
+            }
+          },
+          {
+            "key": 1693703674315,
+            "children": [],
+            "todo": {
+              "content": "Reunión inicial",
+              "id": 1693703674315,
+              "level": "default",
+              "done": true,
+              "start": 1693703674315,
+              "focus": false,
+              "end": 1693704187463
+            }
+          },
+          {
+            "key": 1693703919590,
+            "children": [],
+            "todo": {
+              "content": "Kick Off",
+              "id": 1693703919590,
+              "level": "default",
+              "done": true,
+              "start": 1693703919590,
+              "focus": false,
+              "end": 1693704194208
+            }
+          },
+          {
+            "key": 1693703963390,
+            "children": [],
+            "todo": {
+              "content": "Contratos y Conexiones",
+              "id": 1693703963390,
+              "level": "default",
+              "done": true,
+              "start": 1693703963390,
+              "focus": false,
+              "end": 1693704197102
+            }
+          },
+          {
+            "key": 1693703843592,
+            "children": [],
+            "todo": {
+              "content": "Liberar Instalador",
+              "id": 1693703843592,
+              "level": "default",
+              "done": true,
+              "start": 1693703843592,
+              "tags": [
+                "1693422138337"
+              ],
+              "focus": false,
+              "end": 1693704199932
+            }
+          },
+          {
+            "key": 1693704003041,
+            "children": [],
+            "todo": {
+              "content": "Instalaciones CS POS",
+              "id": 1693704003041,
+              "level": "default",
+              "done": true,
+              "start": 1693704003041,
+              "focus": false,
+              "end": 1693704204440
+            }
+          },
+          {
+            "key": 1693703882789,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 0 - Llenado de excel carga masiva",
+              "id": 1693703882789,
+              "level": "default",
+              "done": true,
+              "start": 1693703882789,
+              "focus": false,
+              "end": 1693704207618
+            }
+          },
+          {
+            "key": 1693703695178,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 1 - Socios y productos",
+              "id": 1693703695178,
+              "level": "default",
+              "done": true,
+              "start": 1693703695178,
+              "focus": false,
+              "end": 1693704208687
+            }
+          },
+          {
+            "key": 1693703732964,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 2 - Configuraciones",
+              "id": 1693703732964,
+              "level": "default",
+              "done": true,
+              "start": 1693703732964,
+              "focus": false,
+              "end": 1693704209562
+            }
+          }
+        ],
+        "todo": {
+          "content": "Implementación La Marisquería",
+          "id": 1693493973426,
+          "level": "warning",
+          "done": true,
+          "start": 1693493973426,
+          "focus": false,
+          "tags": [
+            "1693422166740"
+          ],
+          "date": "1693202400,1694152799",
+          "end": 1695656048238
+        }
+      },
+      {
+        "key": 1693421470086,
+        "children": [
+          {
+            "key": 1695655615183,
+            "children": [],
+            "todo": {
+              "content": "Corregir mensajes de cuando no se tiene inventario para transformar o anular en POS",
+              "id": 1695655615183,
+              "level": "default",
+              "done": false,
+              "start": 1695655615183
+            }
+          },
+          {
+            "key": 1695655653024,
+            "children": [],
+            "todo": {
+              "content": "Corregir mensajes de cuando no se tiene inventario para transformar o anular en HQ",
+              "id": 1695655653024,
+              "level": "default",
+              "done": false,
+              "start": 1695655653024
+            }
+          },
+          {
+            "key": 1695654906974,
+            "children": [],
+            "todo": {
+              "content": "Impresión ticket POS",
+              "id": 1695654906974,
+              "level": "default",
+              "done": false,
+              "start": 1695654906974
+            }
+          },
+          {
+            "key": 1695654928712,
+            "children": [],
+            "todo": {
+              "content": "Impresión carta POS",
+              "id": 1695654928712,
+              "level": "default",
+              "done": false,
+              "start": 1695654928712
+            }
+          },
+          {
+            "key": 1695654999830,
+            "children": [],
+            "todo": {
+              "content": "Correción reporte de Transformación POS",
+              "id": 1695654999830,
+              "level": "default",
+              "done": false,
+              "start": 1695654999830
+            }
+          },
+          {
+            "key": 1695654946423,
+            "children": [],
+            "todo": {
+              "content": "Impresión ticket HQ",
+              "id": 1695654946423,
+              "level": "default",
+              "done": false,
+              "start": 1695654946424
+            }
+          },
+          {
+            "key": 1695654958167,
+            "children": [],
+            "todo": {
+              "content": "Impresión carta KQ",
+              "id": 1695654958167,
+              "level": "default",
+              "done": false,
+              "start": 1695654958167
+            }
+          },
+          {
+            "key": 1695654970292,
+            "children": [],
+            "todo": {
+              "content": "Correción reporte de Transformación HQ",
+              "id": 1695654970292,
+              "level": "default",
+              "done": false,
+              "start": 1695654970292
+            }
+          },
+          {
+            "key": 1693421596423,
+            "children": [
+              {
+                "key": 1693421630229,
+                "children": [],
+                "todo": {
+                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1171",
+                  "id": 1693421630229,
+                  "level": "default",
+                  "done": false,
+                  "start": 1693421630229
+                }
+              }
+            ],
+            "todo": {
+              "content": "Josué: Integración del proceso de Transformación",
+              "id": 1693421596423,
+              "level": "default",
+              "done": true,
+              "start": 1693421596423,
+              "focus": false,
+              "end": 1695655604391
+            }
+          },
+          {
+            "key": 1693421494862,
+            "children": [
+              {
+                "key": 1693421555383,
+                "children": [],
+                "todo": {
+                  "content": "https://albatrosservices.atlassian.net/browse/CSPQ-1173",
+                  "id": 1693421555383,
+                  "level": "default",
+                  "done": false,
+                  "start": 1693421555383
+                }
+              }
+            ],
+            "todo": {
+              "content": "Víctor: Replicar en HQ el proceso de transformación",
+              "id": 1693421494862,
+              "level": "default",
+              "done": true,
+              "start": 1693421494862,
+              "focus": false,
+              "end": 1695655595819
+            }
+          }
+        ],
+        "todo": {
+          "content": "Integración Transformación",
+          "id": 1693421470086,
+          "level": "warning",
+          "done": true,
+          "start": 1693421470086,
+          "tags": [
+            "1693422058040"
+          ],
+          "date": "1694412000,1695275999",
+          "focus": false,
+          "end": 1696016685635
+        }
+      },
+      {
+        "key": 1693704329691,
+        "children": [
+          {
+            "key": 1694615831957,
+            "children": [],
+            "todo": {
+              "content": "Contacto con el cliente para retomar la implementación",
+              "id": 1694615831957,
+              "level": "default",
+              "done": false,
+              "start": 1694615831957,
+              "date": "1694584800,1694671199"
+            }
+          },
+          {
+            "key": 1694615926801,
+            "children": [],
+            "todo": {
+              "content": "Grabar video de llenado del excel",
+              "id": 1694615926801,
+              "level": "default",
+              "done": false,
+              "start": 1694615926801,
+              "date": "1694584800,1694671199"
+            }
+          },
+          {
+            "key": 1694615957635,
+            "children": [],
+            "todo": {
+              "content": "Enviar video de llenado de excel",
+              "id": 1694615957635,
+              "level": "default",
+              "done": false,
+              "start": 1694615957635,
+              "date": "1694584800,1694671199"
+            }
+          },
+          {
+            "key": 1693704329694,
+            "children": [],
+            "todo": {
+              "content": "Contratos y Conexiones",
+              "id": 1693703963390,
+              "level": "default",
+              "done": false,
+              "start": 1693703963390,
+              "focus": false,
+              "end": 1693704197102
+            }
+          },
+          {
+            "key": 1693704329695,
+            "children": [],
+            "todo": {
+              "content": "Liberar Instalador",
+              "id": 1693703843592,
+              "level": "default",
+              "done": false,
+              "start": 1693703843592,
+              "tags": [
+                "1693422138337"
+              ],
+              "focus": false,
+              "end": 1693704199932
+            }
+          },
+          {
+            "key": 1693704329696,
+            "children": [],
+            "todo": {
+              "content": "Instalaciones CS POS",
+              "id": 1693704003041,
+              "level": "default",
+              "done": false,
+              "start": 1693704003041,
+              "focus": false,
+              "end": 1693704204440
+            }
+          },
+          {
+            "key": 1693704329697,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 0 - Llenado de excel carga masiva",
+              "id": 1693703882789,
+              "level": "default",
+              "done": false,
+              "start": 1693703882789,
+              "focus": false,
+              "end": 1693704207618
+            }
+          },
+          {
+            "key": 1693704329698,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 1 - Socios y productos",
+              "id": 1693703695178,
+              "level": "default",
+              "done": false,
+              "start": 1693703695178,
+              "focus": false,
+              "end": 1693704208687
+            }
+          },
+          {
+            "key": 1693704329699,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 2 - Configuraciones",
+              "id": 1693703732964,
+              "level": "default",
+              "done": false,
+              "start": 1693703732964,
+              "focus": false,
+              "end": 1693704209562
+            }
+          },
+          {
+            "key": 1693704329700,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 3 - Compras",
+              "id": 1693703750616,
+              "level": "default",
+              "done": false,
+              "start": 1693703750616,
+              "focus": false,
+              "end": 1693704210692
+            }
+          },
+          {
+            "key": 1693704329701,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 4 - Ventas",
+              "id": 1693703798351,
+              "level": "default",
+              "done": false,
+              "start": 1693703798351,
+              "focus": false,
+              "end": 1693704212557
+            }
+          },
+          {
+            "key": 1693704329702,
+            "children": [],
+            "todo": {
+              "content": "Capacitación 5 - Reportes",
+              "id": 1693703816269,
+              "level": "default",
+              "done": false,
+              "start": 1693703816269,
+              "focus": false,
+              "end": 1693704214751
+            }
+          },
+          {
+            "key": 1693704329703,
+            "children": [],
+            "todo": {
+              "content": "Revisión de excel de carga masiva",
+              "id": 1693704028802,
+              "level": "default",
+              "done": false,
+              "start": 1693704028802
+            }
+          },
+          {
+            "key": 1693704329704,
+            "children": [],
+            "todo": {
+              "content": "Carga Masiva de productos",
+              "id": 1693704082969,
+              "level": "default",
+              "done": false,
+              "start": 1693704082969
+            }
+          },
+          {
+            "key": 1693704329705,
+            "children": [],
+            "todo": {
+              "content": "Cargar Base de datos productiva en máquina cliente",
+              "id": 1693704099882,
+              "level": "default",
+              "done": false,
+              "start": 1693704099882,
+              "focus": false,
+              "end": 1693704222863
+            }
+          },
+          {
+            "key": 1693704329706,
+            "children": [],
+            "todo": {
+              "content": "Documentos de Aceptación de Cierre de Requerimientos DACR",
+              "id": 1693704137998,
+              "level": "default",
+              "done": false,
+              "start": 1693704137998
+            }
+          },
+          {
+            "key": 1693704329707,
+            "children": [],
+            "todo": {
+              "content": "Salida en vivo",
+              "id": 1693704176311,
+              "level": "default",
+              "done": false,
+              "start": 1693704176311
+            }
+          },
+          {
+            "key": 1693704329692,
+            "children": [],
+            "todo": {
+              "content": "Reunión inicial",
+              "id": 1693703674315,
+              "level": "default",
+              "done": true,
+              "start": 1693703674315,
+              "focus": false,
+              "end": 1693705430412,
+              "date": "1689919200,1690005599"
+            }
+          },
+          {
+            "key": 1693704329693,
+            "children": [],
+            "todo": {
+              "content": "Kick Off",
+              "id": 1693703919590,
+              "level": "default",
+              "done": true,
+              "start": 1693703919590,
+              "focus": false,
+              "end": 1693705431394,
+              "date": "1689919200,1690005599"
+            }
+          }
+        ],
+        "todo": {
+          "content": "Implementación Inversiones Sanro",
+          "id": 1693493973426,
+          "level": "warning",
+          "done": true,
+          "start": 1693493973426,
+          "focus": false,
+          "tags": [
+            "1693422166740"
+          ],
+          "date": null,
+          "end": 1696022226401
         }
       }
     ],
     "expandKeys": [
       1693492474104,
       1693703674315,
-      1695133165669
+      1695651811866
     ],
     "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
     "add_mode": "bottom",
@@ -3050,6 +3971,6 @@
     "simpleMode": false,
     "lang": "es",
     "desc": "Listado de tareas a desarrollar",
-    "version": "1695308791625"
+    "version": "1696022240544"
   }
 }
